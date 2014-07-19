@@ -1,0 +1,6810 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 4 0 R
+ /F4 91 0 R
+ /F5 92 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F3': class PDFType1Font 
+4 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class PDFDictionary 
+5 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:nathan@LeastAuthority.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 222.0229
+ 677.7736
+ 348.3429
+ 689.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class PDFDictionary 
+6 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:zooko@LeastAuthority.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 217.5729
+ 659.7736
+ 339.9929
+ 671.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class PDFDictionary 
+7 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:daira@LeastAuthority.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 186.2229
+ 641.7736
+ 304.1929
+ 653.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+8 0 obj
+% Page dictionary
+<< /Annots [ 5 0 R
+ 6 0 R
+ 7 0 R ]
+ /Contents 154 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 153 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER4': class LinkAnnotation 
+9 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 95 0 R
+ /XYZ
+ 62.69291
+ 699.0236
+ 0 ]
+ /Rect [ 62.69291
+ 723.7736
+ 107.1629
+ 735.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class LinkAnnotation 
+10 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 95 0 R
+ /XYZ
+ 62.69291
+ 699.0236
+ 0 ]
+ /Rect [ 527.0227
+ 723.7736
+ 532.5827
+ 735.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class LinkAnnotation 
+11 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 95 0 R
+ /XYZ
+ 62.69291
+ 594.0236
+ 0 ]
+ /Rect [ 82.69291
+ 705.7736
+ 136.6129
+ 717.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class LinkAnnotation 
+12 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 95 0 R
+ /XYZ
+ 62.69291
+ 594.0236
+ 0 ]
+ /Rect [ 527.0227
+ 705.7736
+ 532.5827
+ 717.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER8': class LinkAnnotation 
+13 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 95 0 R
+ /XYZ
+ 62.69291
+ 492.0236
+ 0 ]
+ /Rect [ 102.6929
+ 687.7736
+ 159.9329
+ 699.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER9': class LinkAnnotation 
+14 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 95 0 R
+ /XYZ
+ 62.69291
+ 492.0236
+ 0 ]
+ /Rect [ 527.0227
+ 687.7736
+ 532.5827
+ 699.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER10': class LinkAnnotation 
+15 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 95 0 R
+ /XYZ
+ 62.69291
+ 273.0236
+ 0 ]
+ /Rect [ 102.6929
+ 669.7736
+ 218.8529
+ 681.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER11': class LinkAnnotation 
+16 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 95 0 R
+ /XYZ
+ 62.69291
+ 273.0236
+ 0 ]
+ /Rect [ 527.0227
+ 669.7736
+ 532.5827
+ 681.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER12': class LinkAnnotation 
+17 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 95 0 R
+ /XYZ
+ 62.69291
+ 194.8236
+ 0 ]
+ /Rect [ 62.69291
+ 651.7736
+ 104.3629
+ 663.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER13': class LinkAnnotation 
+18 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 95 0 R
+ /XYZ
+ 62.69291
+ 194.8236
+ 0 ]
+ /Rect [ 527.0227
+ 651.7736
+ 532.5827
+ 663.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER14': class LinkAnnotation 
+19 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 95 0 R
+ /XYZ
+ 62.69291
+ 161.8236
+ 0 ]
+ /Rect [ 82.69291
+ 633.7736
+ 291.6429
+ 645.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER15': class LinkAnnotation 
+20 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 95 0 R
+ /XYZ
+ 62.69291
+ 161.8236
+ 0 ]
+ /Rect [ 527.0227
+ 633.7736
+ 532.5827
+ 645.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER16': class LinkAnnotation 
+21 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 96 0 R
+ /XYZ
+ 62.69291
+ 183.1045
+ 0 ]
+ /Rect [ 82.69291
+ 615.7736
+ 289.6629
+ 627.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER17': class LinkAnnotation 
+22 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 96 0 R
+ /XYZ
+ 62.69291
+ 183.1045
+ 0 ]
+ /Rect [ 527.0227
+ 615.7736
+ 532.5827
+ 627.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER18': class LinkAnnotation 
+23 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 97 0 R
+ /XYZ
+ 62.69291
+ 585.0236
+ 0 ]
+ /Rect [ 82.69291
+ 597.7736
+ 440.0629
+ 609.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER19': class LinkAnnotation 
+24 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 97 0 R
+ /XYZ
+ 62.69291
+ 585.0236
+ 0 ]
+ /Rect [ 527.0227
+ 597.7736
+ 532.5827
+ 609.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER20': class LinkAnnotation 
+25 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 99 0 R
+ /XYZ
+ 62.69291
+ 591.0236
+ 0 ]
+ /Rect [ 82.69291
+ 579.7736
+ 447.8229
+ 591.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER21': class LinkAnnotation 
+26 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 99 0 R
+ /XYZ
+ 62.69291
+ 591.0236
+ 0 ]
+ /Rect [ 527.0227
+ 579.7736
+ 532.5827
+ 591.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER22': class LinkAnnotation 
+27 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 99 0 R
+ /XYZ
+ 62.69291
+ 369.0236
+ 0 ]
+ /Rect [ 82.69291
+ 561.7736
+ 281.6529
+ 573.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER23': class LinkAnnotation 
+28 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 99 0 R
+ /XYZ
+ 62.69291
+ 369.0236
+ 0 ]
+ /Rect [ 527.0227
+ 561.7736
+ 532.5827
+ 573.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER24': class LinkAnnotation 
+29 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 99 0 R
+ /XYZ
+ 62.69291
+ 171.0236
+ 0 ]
+ /Rect [ 62.69291
+ 543.7736
+ 108.2629
+ 555.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER25': class LinkAnnotation 
+30 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 99 0 R
+ /XYZ
+ 62.69291
+ 171.0236
+ 0 ]
+ /Rect [ 527.0227
+ 543.7736
+ 532.5827
+ 555.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER26': class LinkAnnotation 
+31 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 100 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 82.69291
+ 525.7736
+ 157.7229
+ 537.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER27': class LinkAnnotation 
+32 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 100 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 527.0227
+ 525.7736
+ 532.5827
+ 537.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER28': class LinkAnnotation 
+33 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 100 0 R
+ /XYZ
+ 62.69291
+ 693.0236
+ 0 ]
+ /Rect [ 82.69291
+ 507.7736
+ 199.4029
+ 519.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER29': class LinkAnnotation 
+34 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 100 0 R
+ /XYZ
+ 62.69291
+ 693.0236
+ 0 ]
+ /Rect [ 527.0227
+ 507.7736
+ 532.5827
+ 519.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER30': class LinkAnnotation 
+35 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 100 0 R
+ /XYZ
+ 62.69291
+ 633.0236
+ 0 ]
+ /Rect [ 62.69291
+ 489.7736
+ 243.2729
+ 501.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER31': class LinkAnnotation 
+36 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 100 0 R
+ /XYZ
+ 62.69291
+ 633.0236
+ 0 ]
+ /Rect [ 527.0227
+ 489.7736
+ 532.5827
+ 501.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER32': class LinkAnnotation 
+37 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 100 0 R
+ /XYZ
+ 62.69291
+ 498.0236
+ 0 ]
+ /Rect [ 82.69291
+ 471.7736
+ 290.5529
+ 483.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER33': class LinkAnnotation 
+38 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 100 0 R
+ /XYZ
+ 62.69291
+ 498.0236
+ 0 ]
+ /Rect [ 527.0227
+ 471.7736
+ 532.5827
+ 483.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER34': class LinkAnnotation 
+39 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 100 0 R
+ /XYZ
+ 62.69291
+ 438.0236
+ 0 ]
+ /Rect [ 102.6929
+ 453.7736
+ 243.8529
+ 465.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER35': class LinkAnnotation 
+40 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 100 0 R
+ /XYZ
+ 62.69291
+ 438.0236
+ 0 ]
+ /Rect [ 527.0227
+ 453.7736
+ 532.5827
+ 465.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER36': class LinkAnnotation 
+41 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 100 0 R
+ /XYZ
+ 62.69291
+ 297.0236
+ 0 ]
+ /Rect [ 62.69291
+ 435.7736
+ 121.5829
+ 447.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER37': class LinkAnnotation 
+42 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 100 0 R
+ /XYZ
+ 62.69291
+ 297.0236
+ 0 ]
+ /Rect [ 527.0227
+ 435.7736
+ 532.5827
+ 447.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER38': class LinkAnnotation 
+43 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 101 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 62.69291
+ 417.7736
+ 169.9229
+ 429.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER39': class LinkAnnotation 
+44 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 101 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 527.0227
+ 417.7736
+ 532.5827
+ 429.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER40': class LinkAnnotation 
+45 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 101 0 R
+ /XYZ
+ 62.69291
+ 690.0236
+ 0 ]
+ /Rect [ 82.69291
+ 399.7736
+ 209.9729
+ 411.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER41': class LinkAnnotation 
+46 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 101 0 R
+ /XYZ
+ 62.69291
+ 690.0236
+ 0 ]
+ /Rect [ 527.0227
+ 399.7736
+ 532.5827
+ 411.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER42': class LinkAnnotation 
+47 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 101 0 R
+ /XYZ
+ 62.69291
+ 368.0236
+ 0 ]
+ /Rect [ 82.69291
+ 381.7736
+ 393.9329
+ 393.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER43': class LinkAnnotation 
+48 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 101 0 R
+ /XYZ
+ 62.69291
+ 368.0236
+ 0 ]
+ /Rect [ 527.0227
+ 381.7736
+ 532.5827
+ 393.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER44': class LinkAnnotation 
+49 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 101 0 R
+ /XYZ
+ 62.69291
+ 290.0236
+ 0 ]
+ /Rect [ 82.69291
+ 363.7736
+ 213.8529
+ 375.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER45': class LinkAnnotation 
+50 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 101 0 R
+ /XYZ
+ 62.69291
+ 290.0236
+ 0 ]
+ /Rect [ 527.0227
+ 363.7736
+ 532.5827
+ 375.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER46': class LinkAnnotation 
+51 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 101 0 R
+ /XYZ
+ 62.69291
+ 230.0236
+ 0 ]
+ /Rect [ 82.69291
+ 345.7736
+ 227.7429
+ 357.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER47': class LinkAnnotation 
+52 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 101 0 R
+ /XYZ
+ 62.69291
+ 230.0236
+ 0 ]
+ /Rect [ 527.0227
+ 345.7736
+ 532.5827
+ 357.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER48': class LinkAnnotation 
+53 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 101 0 R
+ /XYZ
+ 62.69291
+ 116.0236
+ 0 ]
+ /Rect [ 102.6929
+ 327.7736
+ 178.8329
+ 339.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER49': class LinkAnnotation 
+54 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 101 0 R
+ /XYZ
+ 62.69291
+ 116.0236
+ 0 ]
+ /Rect [ 527.0227
+ 327.7736
+ 532.5827
+ 339.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER50': class LinkAnnotation 
+55 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 102 0 R
+ /XYZ
+ 62.69291
+ 122.2925
+ 0 ]
+ /Rect [ 102.6929
+ 309.7736
+ 258.3229
+ 321.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER51': class LinkAnnotation 
+56 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 102 0 R
+ /XYZ
+ 62.69291
+ 122.2925
+ 0 ]
+ /Rect [ 527.0227
+ 309.7736
+ 532.5827
+ 321.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER52': class LinkAnnotation 
+57 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 103 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 122.6929
+ 291.7736
+ 158.8129
+ 303.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER53': class LinkAnnotation 
+58 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 103 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 521.4627
+ 291.7736
+ 532.5827
+ 303.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER54': class LinkAnnotation 
+59 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 103 0 R
+ /XYZ
+ 62.69291
+ 423.3631
+ 0 ]
+ /Rect [ 122.6929
+ 273.7736
+ 186.6129
+ 285.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER55': class LinkAnnotation 
+60 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 103 0 R
+ /XYZ
+ 62.69291
+ 423.3631
+ 0 ]
+ /Rect [ 521.4627
+ 273.7736
+ 532.5827
+ 285.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER56': class LinkAnnotation 
+61 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 104 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 82.69291
+ 255.7736
+ 181.6129
+ 267.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER57': class LinkAnnotation 
+62 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 104 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 521.4627
+ 255.7736
+ 532.5827
+ 267.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER58': class LinkAnnotation 
+63 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 104 0 R
+ /XYZ
+ 62.69291
+ 705.0236
+ 0 ]
+ /Rect [ 102.6929
+ 237.7736
+ 166.0629
+ 249.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER59': class LinkAnnotation 
+64 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 104 0 R
+ /XYZ
+ 62.69291
+ 705.0236
+ 0 ]
+ /Rect [ 521.4627
+ 237.7736
+ 532.5827
+ 249.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER60': class LinkAnnotation 
+65 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 104 0 R
+ /XYZ
+ 62.69291
+ 444.0236
+ 0 ]
+ /Rect [ 82.69291
+ 219.7736
+ 290.5529
+ 231.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER61': class LinkAnnotation 
+66 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 104 0 R
+ /XYZ
+ 62.69291
+ 444.0236
+ 0 ]
+ /Rect [ 521.4627
+ 219.7736
+ 532.5827
+ 231.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER62': class LinkAnnotation 
+67 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 104 0 R
+ /XYZ
+ 62.69291
+ 414.0236
+ 0 ]
+ /Rect [ 102.6929
+ 201.7736
+ 146.0429
+ 213.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER63': class LinkAnnotation 
+68 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 104 0 R
+ /XYZ
+ 62.69291
+ 414.0236
+ 0 ]
+ /Rect [ 521.4627
+ 201.7736
+ 532.5827
+ 213.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER64': class LinkAnnotation 
+69 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 104 0 R
+ /XYZ
+ 62.69291
+ 345.0236
+ 0 ]
+ /Rect [ 82.69291
+ 183.7736
+ 274.9829
+ 195.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER65': class LinkAnnotation 
+70 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 104 0 R
+ /XYZ
+ 62.69291
+ 345.0236
+ 0 ]
+ /Rect [ 521.4627
+ 183.7736
+ 532.5827
+ 195.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER66': class LinkAnnotation 
+71 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 105 0 R
+ /XYZ
+ 62.69291
+ 652.0236
+ 0 ]
+ /Rect [ 82.69291
+ 165.7736
+ 134.3829
+ 177.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER67': class LinkAnnotation 
+72 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 105 0 R
+ /XYZ
+ 62.69291
+ 652.0236
+ 0 ]
+ /Rect [ 521.4627
+ 165.7736
+ 532.5827
+ 177.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER68': class LinkAnnotation 
+73 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 105 0 R
+ /XYZ
+ 62.69291
+ 527.0236
+ 0 ]
+ /Rect [ 82.69291
+ 147.7736
+ 231.6529
+ 159.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER69': class LinkAnnotation 
+74 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 105 0 R
+ /XYZ
+ 62.69291
+ 527.0236
+ 0 ]
+ /Rect [ 521.4627
+ 147.7736
+ 532.5827
+ 159.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER70': class LinkAnnotation 
+75 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 105 0 R
+ /XYZ
+ 62.69291
+ 151.0236
+ 0 ]
+ /Rect [ 82.69291
+ 129.7736
+ 243.8329
+ 141.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER71': class LinkAnnotation 
+76 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 105 0 R
+ /XYZ
+ 62.69291
+ 151.0236
+ 0 ]
+ /Rect [ 521.4627
+ 129.7736
+ 532.5827
+ 141.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER72': class LinkAnnotation 
+77 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 107 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 82.69291
+ 111.7736
+ 226.6329
+ 123.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER73': class LinkAnnotation 
+78 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 107 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 521.4627
+ 111.7736
+ 532.5827
+ 123.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER74': class LinkAnnotation 
+79 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 107 0 R
+ /XYZ
+ 62.69291
+ 645.0236
+ 0 ]
+ /Rect [ 102.6929
+ 93.77362
+ 234.9729
+ 105.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER75': class LinkAnnotation 
+80 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 107 0 R
+ /XYZ
+ 62.69291
+ 645.0236
+ 0 ]
+ /Rect [ 521.4627
+ 93.77362
+ 532.5827
+ 105.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page2': class PDFPage 
+81 0 obj
+% Page dictionary
+<< /Annots [ 9 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R
+ 15 0 R
+ 16 0 R
+ 17 0 R
+ 18 0 R
+ 19 0 R
+ 20 0 R
+ 21 0 R
+ 22 0 R
+ 23 0 R
+ 24 0 R
+ 25 0 R
+ 26 0 R
+ 27 0 R
+ 28 0 R
+ 29 0 R
+ 30 0 R
+ 31 0 R
+ 32 0 R
+ 33 0 R
+ 34 0 R
+ 35 0 R
+ 36 0 R
+ 37 0 R
+ 38 0 R
+ 39 0 R
+ 40 0 R
+ 41 0 R
+ 42 0 R
+ 43 0 R
+ 44 0 R
+ 45 0 R
+ 46 0 R
+ 47 0 R
+ 48 0 R
+ 49 0 R
+ 50 0 R
+ 51 0 R
+ 52 0 R
+ 53 0 R
+ 54 0 R
+ 55 0 R
+ 56 0 R
+ 57 0 R
+ 58 0 R
+ 59 0 R
+ 60 0 R
+ 61 0 R
+ 62 0 R
+ 63 0 R
+ 64 0 R
+ 65 0 R
+ 66 0 R
+ 67 0 R
+ 68 0 R
+ 69 0 R
+ 70 0 R
+ 71 0 R
+ 72 0 R
+ 73 0 R
+ 74 0 R
+ 75 0 R
+ 76 0 R
+ 77 0 R
+ 78 0 R
+ 79 0 R
+ 80 0 R ]
+ /Contents 155 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 153 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER76': class LinkAnnotation 
+82 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 107 0 R
+ /XYZ
+ 62.69291
+ 162.0236
+ 0 ]
+ /Rect [ 102.6929
+ 750.7736
+ 173.2829
+ 762.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER77': class LinkAnnotation 
+83 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 107 0 R
+ /XYZ
+ 62.69291
+ 162.0236
+ 0 ]
+ /Rect [ 521.4627
+ 750.7736
+ 532.5827
+ 762.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER78': class LinkAnnotation 
+84 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 109 0 R
+ /XYZ
+ 62.69291
+ 417.0236
+ 0 ]
+ /Rect [ 102.6929
+ 732.7736
+ 211.6329
+ 744.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER79': class LinkAnnotation 
+85 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 109 0 R
+ /XYZ
+ 62.69291
+ 417.0236
+ 0 ]
+ /Rect [ 521.4627
+ 732.7736
+ 532.5827
+ 744.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER80': class LinkAnnotation 
+86 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 109 0 R
+ /XYZ
+ 62.69291
+ 138.8236
+ 0 ]
+ /Rect [ 102.6929
+ 714.7736
+ 166.0429
+ 726.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER81': class LinkAnnotation 
+87 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 109 0 R
+ /XYZ
+ 62.69291
+ 138.8236
+ 0 ]
+ /Rect [ 521.4627
+ 714.7736
+ 532.5827
+ 726.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER82': class PDFDictionary 
+88 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://LeastAuthority.com/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 85.49861
+ 660.7736
+ 160.57
+ 672.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER83': class PDFDictionary 
+89 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://crypton.io/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 436.3656
+ 660.7736
+ 474.7313
+ 672.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER84': class PDFDictionary 
+90 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://spideroak.com/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 648.7736
+ 109.9329
+ 660.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F4': class PDFType1Font 
+91 0 obj
+% Font Helvetica-BoldOblique
+<< /BaseFont /Helvetica-BoldOblique
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F5': class PDFType1Font 
+92 0 obj
+% Font Courier
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F5
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER85': class PDFDictionary 
+93 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://github.com/SpiderOak/crypton) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 187.7529
+ 240.7736
+ 280.5729
+ 252.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER86': class PDFDictionary 
+94 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://github.com/SpiderOak/crypton/commit/6c85ded20421b6872581cfe4cbef3e1c3283963f) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 334.4929
+ 240.7736
+ 387.2829
+ 252.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page3': class PDFPage 
+95 0 obj
+% Page dictionary
+<< /Annots [ 82 0 R
+ 83 0 R
+ 84 0 R
+ 85 0 R
+ 86 0 R
+ 87 0 R
+ 88 0 R
+ 89 0 R
+ 90 0 R
+ 93 0 R
+ 94 0 R ]
+ /Contents 156 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 153 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page4': class PDFPage 
+96 0 obj
+% Page dictionary
+<< /Contents 157 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 153 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page5': class PDFPage 
+97 0 obj
+% Page dictionary
+<< /Contents 158 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 153 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER87': class LinkAnnotation 
+98 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 101 0 R
+ /XYZ
+ 62.69291
+ 768.5236
+ 0 ]
+ /Rect [ 82.70291
+ 132.7736
+ 184.9729
+ 144.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page6': class PDFPage 
+99 0 obj
+% Page dictionary
+<< /Annots [ 98 0 R ]
+ /Contents 159 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 153 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page7': class PDFPage 
+100 0 obj
+% Page dictionary
+<< /Contents 160 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 153 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page8': class PDFPage 
+101 0 obj
+% Page dictionary
+<< /Contents 161 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 153 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page9': class PDFPage 
+102 0 obj
+% Page dictionary
+<< /Contents 162 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 153 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page10': class PDFPage 
+103 0 obj
+% Page dictionary
+<< /Contents 163 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 153 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page11': class PDFPage 
+104 0 obj
+% Page dictionary
+<< /Contents 164 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 153 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page12': class PDFPage 
+105 0 obj
+% Page dictionary
+<< /Contents 165 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 153 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER88': class LinkAnnotation 
+106 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 95 0 R
+ /XYZ
+ 62.69291
+ 164.8236
+ 0 ]
+ /Rect [ 205.1974
+ 408.7736
+ 446.7309
+ 420.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page13': class PDFPage 
+107 0 obj
+% Page dictionary
+<< /Annots [ 106 0 R ]
+ /Contents 166 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 153 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER89': class PDFDictionary 
+108 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://stackoverflow.com/questions/4222394/using-object-prototype-tostring-call-to-return-object-type-with-javascript-n) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 49.3278
+ 160.5736
+ 568.9478
+ 172.5736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page14': class PDFPage 
+109 0 obj
+% Page dictionary
+<< /Annots [ 108 0 R ]
+ /Contents 167 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 153 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page15': class PDFPage 
+110 0 obj
+% Page dictionary
+<< /Contents 168 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 153 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R111': class PDFCatalog 
+111 0 obj
+% Document Root
+<< /Outlines 113 0 R
+ /PageLabels 169 0 R
+ /PageMode /UseNone
+ /Pages 153 0 R
+ /Type /Catalog >>
+endobj
+% 'R112': class PDFInfo 
+112 0 obj
+<< /Author ()
+ /CreationDate (D:20131214075806+00'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (Report of Initial Security Audit of Crypton) >>
+endobj
+% 'R113': class PDFOutlines 
+113 0 obj
+<< /Count 51
+ /First 114 0 R
+ /Last 131 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+114 0 obj
+<< /Count 3
+ /Dest [ 95 0 R
+ /XYZ
+ 62.69291
+ 699.0236
+ 0 ]
+ /First 115 0 R
+ /Last 115 0 R
+ /Next 118 0 R
+ /Parent 113 0 R
+ /Title (Overview) >>
+endobj
+% 'Outline.40.0': class OutlineEntryObject 
+115 0 obj
+<< /Count 2
+ /Dest [ 95 0 R
+ /XYZ
+ 62.69291
+ 594.0236
+ 0 ]
+ /First 116 0 R
+ /Last 117 0 R
+ /Parent 114 0 R
+ /Title (Audit Scope) >>
+endobj
+% 'Outline.41.0': class OutlineEntryObject 
+116 0 obj
+<< /Dest [ 95 0 R
+ /XYZ
+ 62.69291
+ 492.0236
+ 0 ]
+ /Next 117 0 R
+ /Parent 115 0 R
+ /Title (Scope Limits) >>
+endobj
+% 'Outline.41.1': class OutlineEntryObject 
+117 0 obj
+<< /Dest [ 95 0 R
+ /XYZ
+ 62.69291
+ 273.0236
+ 0 ]
+ /Parent 115 0 R
+ /Prev 116 0 R
+ /Title (Target Code and Revision) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+118 0 obj
+<< /Count 5
+ /Dest [ 95 0 R
+ /XYZ
+ 62.69291
+ 194.8236
+ 0 ]
+ /First 119 0 R
+ /Last 123 0 R
+ /Next 124 0 R
+ /Parent 113 0 R
+ /Prev 114 0 R
+ /Title (Findings) >>
+endobj
+% 'Outline.42.0': class OutlineEntryObject 
+119 0 obj
+<< /Dest [ 95 0 R
+ /XYZ
+ 62.69291
+ 161.8236
+ 0 ]
+ /Next 120 0 R
+ /Parent 118 0 R
+ /Title (Issue A. ElGamal keypair recovery vulnerability) >>
+endobj
+% 'Outline.42.1': class OutlineEntryObject 
+120 0 obj
+<< /Dest [ 96 0 R
+ /XYZ
+ 62.69291
+ 183.1045
+ 0 ]
+ /Next 121 0 R
+ /Parent 118 0 R
+ /Prev 119 0 R
+ /Title (Issue B. Server Can Overwrite Client's Secrets) >>
+endobj
+% 'Outline.42.2': class OutlineEntryObject 
+121 0 obj
+<< /Dest [ 97 0 R
+ /XYZ
+ 62.69291
+ 585.0236
+ 0 ]
+ /Next 122 0 R
+ /Parent 118 0 R
+ /Prev 120 0 R
+ /Title (Issue C. Modification of Container Contents By Filtering And Reordering Patches) >>
+endobj
+% 'Outline.42.3': class OutlineEntryObject 
+122 0 obj
+<< /Dest [ 99 0 R
+ /XYZ
+ 62.69291
+ 591.0236
+ 0 ]
+ /Next 123 0 R
+ /Parent 118 0 R
+ /Prev 121 0 R
+ /Title (Issue D. Guessable Private Keys On Browsers Without crypto.getRandomValues\(\)) >>
+endobj
+% 'Outline.42.4': class OutlineEntryObject 
+123 0 obj
+<< /Dest [ 99 0 R
+ /XYZ
+ 62.69291
+ 369.0236
+ 0 ]
+ /Parent 118 0 R
+ /Prev 122 0 R
+ /Title (Issue E. Encryption Key Disclosed To Server) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+124 0 obj
+<< /Count 2
+ /Dest [ 99 0 R
+ /XYZ
+ 62.69291
+ 171.0236
+ 0 ]
+ /First 125 0 R
+ /Last 126 0 R
+ /Next 127 0 R
+ /Parent 113 0 R
+ /Prev 118 0 R
+ /Title (Coverage) >>
+endobj
+% 'Outline.43.0': class OutlineEntryObject 
+125 0 obj
+<< /Dest [ 100 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Next 126 0 R
+ /Parent 124 0 R
+ /Title (Functional Areas) >>
+endobj
+% 'Outline.43.1': class OutlineEntryObject 
+126 0 obj
+<< /Dest [ 100 0 R
+ /XYZ
+ 62.69291
+ 693.0236
+ 0 ]
+ /Parent 124 0 R
+ /Prev 125 0 R
+ /Title (Areas with Less Coverage) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+127 0 obj
+<< /Count 2
+ /Dest [ 100 0 R
+ /XYZ
+ 62.69291
+ 633.0236
+ 0 ]
+ /First 128 0 R
+ /Last 128 0 R
+ /Next 130 0 R
+ /Parent 113 0 R
+ /Prev 124 0 R
+ /Title (Commendations & Recommendations) >>
+endobj
+% 'Outline.44.0': class OutlineEntryObject 
+128 0 obj
+<< /Count 1
+ /Dest [ 100 0 R
+ /XYZ
+ 62.69291
+ 498.0236
+ 0 ]
+ /First 129 0 R
+ /Last 129 0 R
+ /Parent 127 0 R
+ /Title (Design and Implementation Recommendations) >>
+endobj
+% 'Outline.45.0': class OutlineEntryObject 
+129 0 obj
+<< /Dest [ 100 0 R
+ /XYZ
+ 62.69291
+ 438.0236
+ 0 ]
+ /Parent 128 0 R
+ /Title (Immutable versus Mutable APIs) >>
+endobj
+% 'Outline.4': class OutlineEntryObject 
+130 0 obj
+<< /Dest [ 100 0 R
+ /XYZ
+ 62.69291
+ 297.0236
+ 0 ]
+ /Next 131 0 R
+ /Parent 113 0 R
+ /Prev 127 0 R
+ /Title (Future Work) >>
+endobj
+% 'Outline.5': class OutlineEntryObject 
+131 0 obj
+<< /Count 21
+ /Dest [ 101 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /First 132 0 R
+ /Last 148 0 R
+ /Parent 113 0 R
+ /Prev 130 0 R
+ /Title (Appendix A. Work Log) >>
+endobj
+% 'Outline.46.0': class OutlineEntryObject 
+132 0 obj
+<< /Dest [ 101 0 R
+ /XYZ
+ 62.69291
+ 690.0236
+ 0 ]
+ /Next 133 0 R
+ /Parent 131 0 R
+ /Title (Issue Resolution Convention) >>
+endobj
+% 'Outline.46.1': class OutlineEntryObject 
+133 0 obj
+<< /Dest [ 101 0 R
+ /XYZ
+ 62.69291
+ 368.0236
+ 0 ]
+ /Next 134 0 R
+ /Parent 131 0 R
+ /Prev 132 0 R
+ /Title (Day 1 - Source Checkout, Developer Installation, Documentation Pass) >>
+endobj
+% 'Outline.46.2': class OutlineEntryObject 
+134 0 obj
+<< /Dest [ 101 0 R
+ /XYZ
+ 62.69291
+ 290.0236
+ 0 ]
+ /Next 135 0 R
+ /Parent 131 0 R
+ /Prev 133 0 R
+ /Title (Day 2 - Developer Installation) >>
+endobj
+% 'Outline.46.3': class OutlineEntryObject 
+135 0 obj
+<< /Count 4
+ /Dest [ 101 0 R
+ /XYZ
+ 62.69291
+ 230.0236
+ 0 ]
+ /First 136 0 R
+ /Last 137 0 R
+ /Next 140 0 R
+ /Parent 131 0 R
+ /Prev 134 0 R
+ /Title (Day 3 - Blackbox/UX Exploration) >>
+endobj
+% 'Outline.47.0': class OutlineEntryObject 
+136 0 obj
+<< /Dest [ 101 0 R
+ /XYZ
+ 62.69291
+ 116.0236
+ 0 ]
+ /Next 137 0 R
+ /Parent 135 0 R
+ /Title (Initial Exploration) >>
+endobj
+% 'Outline.47.1': class OutlineEntryObject 
+137 0 obj
+<< /Count 2
+ /Dest [ 102 0 R
+ /XYZ
+ 62.69291
+ 122.2925
+ 0 ]
+ /First 138 0 R
+ /Last 139 0 R
+ /Parent 135 0 R
+ /Prev 136 0 R
+ /Title (Session Management Investigation) >>
+endobj
+% 'Outline.48.0': class OutlineEntryObject 
+138 0 obj
+<< /Dest [ 103 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Next 139 0 R
+ /Parent 137 0 R
+ /Title (Cookies) >>
+endobj
+% 'Outline.48.1': class OutlineEntryObject 
+139 0 obj
+<< /Dest [ 103 0 R
+ /XYZ
+ 62.69291
+ 423.3631
+ 0 ]
+ /Parent 137 0 R
+ /Prev 138 0 R
+ /Title (Login Protocol) >>
+endobj
+% 'Outline.46.4': class OutlineEntryObject 
+140 0 obj
+<< /Count 1
+ /Dest [ 104 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /First 141 0 R
+ /Last 141 0 R
+ /Next 142 0 R
+ /Parent 131 0 R
+ /Prev 135 0 R
+ /Title (Day 4 - Code Analysis) >>
+endobj
+% 'Outline.49.0': class OutlineEntryObject 
+141 0 obj
+<< /Dest [ 104 0 R
+ /XYZ
+ 62.69291
+ 705.0236
+ 0 ]
+ /Parent 140 0 R
+ /Title (Authentication) >>
+endobj
+% 'Outline.46.5': class OutlineEntryObject 
+142 0 obj
+<< /Count 1
+ /Dest [ 104 0 R
+ /XYZ
+ 62.69291
+ 444.0236
+ 0 ]
+ /First 143 0 R
+ /Last 143 0 R
+ /Next 144 0 R
+ /Parent 131 0 R
+ /Prev 140 0 R
+ /Title (Day 5 - Code & Design Analysis and Reporting) >>
+endobj
+% 'Outline.50.0': class OutlineEntryObject 
+143 0 obj
+<< /Dest [ 104 0 R
+ /XYZ
+ 62.69291
+ 414.0236
+ 0 ]
+ /Parent 142 0 R
+ /Title (Reporting) >>
+endobj
+% 'Outline.46.6': class OutlineEntryObject 
+144 0 obj
+<< /Dest [ 104 0 R
+ /XYZ
+ 62.69291
+ 345.0236
+ 0 ]
+ /Next 145 0 R
+ /Parent 131 0 R
+ /Prev 142 0 R
+ /Title (Day 6 - Developer Interview & Design Audit) >>
+endobj
+% 'Outline.46.7': class OutlineEntryObject 
+145 0 obj
+<< /Dest [ 105 0 R
+ /XYZ
+ 62.69291
+ 652.0236
+ 0 ]
+ /Next 146 0 R
+ /Parent 131 0 R
+ /Prev 144 0 R
+ /Title (Day 7 - ???) >>
+endobj
+% 'Outline.46.8': class OutlineEntryObject 
+146 0 obj
+<< /Dest [ 105 0 R
+ /XYZ
+ 62.69291
+ 527.0236
+ 0 ]
+ /Next 147 0 R
+ /Parent 131 0 R
+ /Prev 145 0 R
+ /Title (Day 8 - Account Generation Audit) >>
+endobj
+% 'Outline.46.9': class OutlineEntryObject 
+147 0 obj
+<< /Dest [ 105 0 R
+ /XYZ
+ 62.69291
+ 151.0236
+ 0 ]
+ /Next 148 0 R
+ /Parent 131 0 R
+ /Prev 146 0 R
+ /Title (Day 9 - Furiously Writing Up Results) >>
+endobj
+% 'Outline.46.10': class OutlineEntryObject 
+148 0 obj
+<< /Count 4
+ /Dest [ 107 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /First 149 0 R
+ /Last 152 0 R
+ /Parent 131 0 R
+ /Prev 147 0 R
+ /Title (Day 10 - Hunting For More Bugs) >>
+endobj
+% 'Outline.51.0': class OutlineEntryObject 
+149 0 obj
+<< /Dest [ 107 0 R
+ /XYZ
+ 62.69291
+ 645.0236
+ 0 ]
+ /Next 150 0 R
+ /Parent 148 0 R
+ /Title (Challenge/Response Protocol) >>
+endobj
+% 'Outline.51.1': class OutlineEntryObject 
+150 0 obj
+<< /Dest [ 107 0 R
+ /XYZ
+ 62.69291
+ 162.0236
+ 0 ]
+ /Next 151 0 R
+ /Parent 148 0 R
+ /Prev 149 0 R
+ /Title (Account objects) >>
+endobj
+% 'Outline.51.2': class OutlineEntryObject 
+151 0 obj
+<< /Dest [ 109 0 R
+ /XYZ
+ 62.69291
+ 417.0236
+ 0 ]
+ /Next 152 0 R
+ /Parent 148 0 R
+ /Prev 150 0 R
+ /Title (Randomness generation) >>
+endobj
+% 'Outline.51.3': class OutlineEntryObject 
+152 0 obj
+<< /Dest [ 109 0 R
+ /XYZ
+ 62.69291
+ 138.8236
+ 0 ]
+ /Parent 148 0 R
+ /Prev 151 0 R
+ /Title (Miscellaneous) >>
+endobj
+% 'R153': class PDFPages 
+153 0 obj
+% page tree
+<< /Count 15
+ /Kids [ 8 0 R
+ 81 0 R
+ 95 0 R
+ 96 0 R
+ 97 0 R
+ 99 0 R
+ 100 0 R
+ 101 0 R
+ 102 0 R
+ 103 0 R
+ 104 0 R
+ 105 0 R
+ 107 0 R
+ 109 0 R
+ 110 0 R ]
+ /Type /Pages >>
+endobj
+% 'R154': class PDFStream 
+154 0 obj
+% page stream
+<< /Length 2309 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 37.70488 0 Td (Report of Initial Security Audit of Crypton) Tj T* -37.70488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 719.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (draft 3, 2013-12-13) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 713.0236 cm
+Q
+q
+1 0 0 1 62.69291 713.0236 cm
+Q
+q
+1 0 0 1 62.69291 647.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Principal Investigators:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 45 cm
+Q
+q
+1 0 0 1 23 45 cm
+Q
+q
+1 0 0 1 23 33 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Nathan Wilcox-O'Hearn <) Tj 0 0 .501961 rg (nathan@LeastAuthority.com) Tj 0 0 0 rg (>) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Zooko Wilcox-O'Hearn <) Tj 0 0 .501961 rg (zooko@LeastAuthority.com) Tj 0 0 0 rg (>) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Daira Hopwood <) Tj 0 0 .501961 rg (daira@LeastAuthority.com) Tj 0 0 0 rg (>) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 641.0236 cm
+Q
+q
+1 0 0 1 62.69291 611.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Organization Name:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (Least Authority) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 611.0236 cm
+Q
+ 
+endstream
+endobj
+% 'R155': class PDFStream 
+155 0 obj
+% page stream
+<< /Length 9638 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 90.02362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 633 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Overview) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 633 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 615 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Audit Scope) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 615 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 597 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Scope Limits) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 597 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 579 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Target Code and Revision) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 579 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 561 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Findings) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 561 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 543 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Issue A. ElGamal keypair recovery vulnerability) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 543 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 525 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Issue B. Server Can Overwrite Client's Secrets) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 525 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (4) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 507 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Issue C. Modification of Container Contents By Filtering And Reordering Patches) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 507 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (5) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 489 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Issue D. Guessable Private Keys On Browsers Without crypto.getRandomValues\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 489 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (6) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 471 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Issue E. Encryption Key Disclosed To Server) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 471 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (6) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 453 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Coverage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 453 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (6) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 435 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Functional Areas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 435 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (7) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 417 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Areas with Less Coverage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 417 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (7) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 399 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Commendations & Recommendations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 399 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (7) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 381 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Design and Implementation Recommendations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 381 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (7) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 363 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Immutable versus Mutable APIs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 363 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (7) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 345 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Future Work) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 345 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (7) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 327 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Appendix A. Work Log) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 327 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (8) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 309 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Issue Resolution Convention) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 309 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (8) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 291 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Day 1 - Source Checkout, Developer Installation, Documentation Pass) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 291 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (8) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 273 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Day 2 - Developer Installation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 273 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (8) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 255 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Day 3 - Blackbox/UX Exploration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 255 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (8) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 237 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Initial Exploration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 237 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (8) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 219 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Session Management Investigation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 219 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (9) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 201 cm
+q
+BT 1 0 0 1 60 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Cookies) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 201 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 183 cm
+q
+BT 1 0 0 1 60 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Login Protocol) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 183 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (10) Tj T* -60.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 165 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Day 4 - Code Analysis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 165 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 147 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Authentication) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 147 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 129 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Day 5 - Code & Design Analysis and Reporting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 129 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 111 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Reporting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 111 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 93 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Day 6 - Developer Interview & Design Audit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 93 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (11) Tj T* -60.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 75 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Day 7 - ???) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 75 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 57 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Day 8 - Account Generation Audit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 57 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 39 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Day 9 - Furiously Writing Up Results) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 39 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (12) Tj T* -60.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 21 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Day 10 - Hunting For More Bugs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 21 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (13) Tj T* -60.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Challenge/Response Protocol) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (13) Tj T* -60.88 0 Td ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+% 'R156': class PDFStream 
+156 0 obj
+% page stream
+<< /Length 6176 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 711.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 39 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Account objects) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 39 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (13) Tj T* -60.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 21 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Randomness generation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 21 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (14) Tj T* -60.88 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Miscellaneous) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 60.88 0 Td (14) Tj T* -60.88 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Overview) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 636.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 2.795697 Tw 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj 0 0 .501961 rg (Least Authority ) Tj 0 0 0 rg (security consultancy performed an initial security audit of ) Tj 0 0 .501961 rg (crypton ) Tj 0 0 0 rg (on behalf of) Tj T* 0 Tw .363976 Tw 0 0 .501961 rg (SpiderOak) Tj 0 0 0 rg (. The ) Tj /F3 10 Tf (crypton ) Tj /F1 10 Tf (JavaScript framework simplifies creating browser-based applications with privacy) Tj T* 0 Tw (and security properties which protect the end-user, even in some respects against malicious servers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 606.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 2.731654 Tw 12 TL /F1 10 Tf 0 0 0 rg (This revision of this report is a draft audit results. A final revision will be delivered after the audit) Tj T* 0 Tw (concludes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 576.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Audit Scope) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 534.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 3.01229 Tw 12 TL /F1 10 Tf 0 0 0 rg (The audit is a two-week time-boxed investigation of essential ) Tj /F3 10 Tf (crypton ) Tj /F1 10 Tf (security properties and their) Tj T* 0 Tw 1.383615 Tw (implementation. The audit techniques include interactive penetration testing, code and design analysis,) Tj T* 0 Tw (and developer interviews.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 504.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.36748 Tw (The primary focus is in single-user application \(those without cross-user interactions\) security features,) Tj T* 0 Tw (especially those intended to protect users against malicious servers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 477.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Scope Limits) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 423.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 3.561797 Tw (A well-known outstanding attack surface which can compromise client-side security of web-based) Tj T* 0 Tw .29311 Tw (applications, given a malicious server, is to deliver backdoored client code. For the purposes of this audit,) Tj T* 0 Tw .188735 Tw (we assume a user has received the correct JavaScript code, and the attack surface we examine excludes) Tj T* 0 Tw (that issue.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 393.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.694269 Tw 12 TL /F1 10 Tf 0 0 0 rg (Given that this is a short audit, we are de-emphasizing cross-user interactions, "standard" web attack) Tj T* 0 Tw (surfaces, such as ) Tj /F5 10 Tf (Cross-Site Scripting \(XSS\) ) Tj /F1 10 Tf (or ) Tj /F5 10 Tf (SQL Injection) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 339.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .057126 Tw (A well-known outstanding attack is the side-channel of timing information emitted by the implementation of) Tj T* 0 Tw .454269 Tw (cryptographic algorithms computing on secrets. It is an unsolved problem how to prevent that information) Tj T* 0 Tw .790751 Tw (leakage with cryptographic algorithms implemented in JavaScript. This issue is excluded from the scope) Tj T* 0 Tw (of this audit.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 285.0236 cm
+q
+BT 1 0 0 1 0 38 Tm .446457 Tw 12 TL /F1 10 Tf 0 0 0 rg (This preliminary audit is focused on one particular use case, which is the one represented by the ) Tj /F5 10 Tf (diary) Tj T* 0 Tw 2.579984 Tw /F1 10 Tf (example app. The ) Tj /F5 10 Tf (diary ) Tj /F1 10 Tf (example app allows a user to append timetamped free-text entries to a) Tj T* 0 Tw .649988 Tw (personal diary. It is intended to allow that user to read and write their own diary, but not to allow anyone) Tj T* 0 Tw (else to read or write into their diary.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 258.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Target Code and Revision) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 240.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (This audit targets the public ) Tj 0 0 .501961 rg (crypton source code ) Tj 0 0 0 rg (focusing on ) Tj 0 0 .501961 rg (this revision) Tj 0 0 0 rg (:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 206.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F5 10 Tf 12 TL (6c85ded20421b6872581cfe4cbef3e1c3283963f) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 173.8236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Findings) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 143.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Issue A. ElGamal keypair recovery vulnerability) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 89.82362 cm
+q
+BT 1 0 0 1 0 38 Tm 2.439979 Tw 12 TL /F2 10 Tf 0 0 0 rg (Synopsis: ) Tj /F1 10 Tf (A server can send the client's ) Tj /F5 10 Tf (base_keyring.keypair_salt ) Tj /F1 10 Tf (instead of the expected) Tj T* 0 Tw .663307 Tw /F5 10 Tf (base_keyring.challenge_key_salt ) Tj /F1 10 Tf (in the authentication challenge protocol. This causes the client) Tj T* 0 Tw 3.837485 Tw (to respond with the symmetric key used to protect the ) Tj /F3 10 Tf (ElGamal ) Tj /F1 10 Tf (private key which is stored in) Tj T* 0 Tw /F5 10 Tf (base_keyring.keypair) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R157': class PDFStream 
+157 0 obj
+% page stream
+<< /Length 7330 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.61311 Tw 12 TL /F2 10 Tf 0 0 0 rg (Impact: ) Tj /F1 10 Tf (Recovery of this private key allows the attacker to read all container contents and forge new) Tj T* 0 Tw (records.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 723.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Feasibility: ) Tj /F1 10 Tf (An attacker which has compromised the server can easily implement this attack.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 705.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Verification: ) Tj /F1 10 Tf (We verified this issue by source code inspection.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 639.0236 cm
+q
+BT 1 0 0 1 0 50 Tm 1.467752 Tw 12 TL /F2 10 Tf 0 0 0 rg (Implementation Analysis: ) Tj /F1 10 Tf (An attacker with access to the ) Tj /F5 10 Tf (base_keyring.keypair_salt ) Tj /F1 10 Tf (database) Tj T* 0 Tw .439986 Tw (field for the victim client, and the ability to modify the challenge ) Tj /F5 10 Tf (HTTP ) Tj /F1 10 Tf (response can use this vulnerability) Tj T* 0 Tw 9.380751 Tw (to recover the keypair. An attacker which additionally has the ability to read the) Tj T* 0 Tw 3.119147 Tw /F5 10 Tf (base_keyring.keypair ) Tj /F1 10 Tf (can follow a recovery of ) Tj /F5 10 Tf (keypairKey ) Tj /F1 10 Tf (with a decryption of the client's) Tj T* 0 Tw /F3 10 Tf (ElGamal ) Tj /F1 10 Tf (private key.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 609.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.256905 Tw 12 TL /F1 10 Tf 0 0 0 rg (Authentication uses a simple challenge/response protocol where the server sends a challenge salt and) Tj T* 0 Tw (the client responds with the ) Tj /F5 10 Tf (pbkdf2 ) Tj /F1 10 Tf (output of that salt keyed with their secret password:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 575.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F5 10 Tf 0 0 0 rg (response ) Tj (<) Tj (- pbkdf2\(password, challenge\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 555.8236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The client code can be found in ) Tj /F5 10 Tf (client/src/core.js ) Tj /F1 10 Tf (inside ) Tj /F5 10 Tf (crypton.authorize ) Tj /F1 10 Tf (on line 145:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 522.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F5 10 Tf 12 TL (response.challengeKey = sjcl.misc.pbkdf2\(passphrase, body.challengeKeySalt\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 490.6236 cm
+q
+BT 1 0 0 1 0 14 Tm 12.47915 Tw 12 TL /F1 10 Tf 0 0 0 rg (The typical challenge value is initially selected by the client and stored in) Tj T* 0 Tw /F5 10 Tf (base_keyring.challenge_key_salt ) Tj /F1 10 Tf (in the database.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 448.6236 cm
+q
+BT 1 0 0 1 0 26 Tm 2.073318 Tw 12 TL /F1 10 Tf 0 0 0 rg (Meanwhile, the symmetric key which clients use to encrypt their ) Tj /F3 10 Tf (ElGamal ) Tj /F1 10 Tf (keypair is also a ) Tj /F5 10 Tf (pbkdf2) Tj T* 0 Tw .569982 Tw /F1 10 Tf (computation with the same password, which can be seen in ) Tj /F5 10 Tf (crypton.generateAccount ) Tj /F1 10 Tf (of the same) Tj T* 0 Tw (file on line 100:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 415.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F5 10 Tf 12 TL (var keypairKey = sjcl.misc.pbkdf2\(passphrase, keypairSalt\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 371.4236 cm
+q
+BT 1 0 0 1 0 26 Tm .334524 Tw 12 TL /F1 10 Tf 0 0 0 rg (If a malicious server sends a challenge such that ) Tj /F5 10 Tf (body.challengeKeySalt ) Tj /F1 10 Tf (in ) Tj /F5 10 Tf (crypton.authorize) Tj T* 0 Tw 13.30997 Tw /F1 10 Tf (is identical to ) Tj /F5 10 Tf (keypairSalt ) Tj /F1 10 Tf (in ) Tj /F5 10 Tf (crypton.generateAccount) Tj /F1 10 Tf (, then the resulting) Tj T* 0 Tw /F5 10 Tf (response.challengeKey ) Tj /F1 10 Tf (will be identical to ) Tj /F5 10 Tf (keypairKey) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 341.4236 cm
+q
+BT 1 0 0 1 0 14 Tm .839069 Tw 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F5 10 Tf (keypairKey ) Tj /F1 10 Tf (value is computed in ) Tj /F5 10 Tf (crypton.generateAccount ) Tj /F1 10 Tf (to encrypt the ) Tj /F3 10 Tf (ElGamal ) Tj /F1 10 Tf (keypair) Tj T* 0 Tw (on line 106:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 316.8671 cm
+q
+q
+.657005 0 0 .657005 0 0 cm
+q
+1 0 0 1 6.6 10.04559 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 714 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F5 10 Tf 12 TL (account.keypairCiphertext = sjcl.encrypt\(keypairKey, JSON.stringify\(keypair.sec.serialize\(\)\), crypton.cipherOptions\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 284.8671 cm
+q
+BT 1 0 0 1 0 14 Tm .416647 Tw 12 TL /F1 10 Tf 0 0 0 rg (The same value is computed on the client in ) Tj /F5 10 Tf (account.js ) Tj /F1 10 Tf (within ) Tj /F5 10 Tf (Account.prototype.unravel ) Tj /F1 10 Tf (and) Tj T* 0 Tw (then used to decrypt the ) Tj /F3 10 Tf (ElGamal ) Tj /F1 10 Tf (keypair on lines 66-70:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 227.1045 cm
+q
+q
+.679817 0 0 .679817 0 0 cm
+q
+1 0 0 1 6.6 9.70849 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 690 72 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F5 10 Tf 12 TL (// regenerate keypair key from password) Tj T* (var keypairKey = sjcl.misc.pbkdf2\(this.passphrase, this.keypairSalt\);) Tj T*  T* (// decrypt secret key) Tj T* (var secret = JSON.parse\(sjcl.decrypt\(keypairKey, JSON.stringify\(this.keypairCiphertext\), crypton.cipherOptions\)\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 195.1045 cm
+q
+BT 1 0 0 1 0 14 Tm 1.333314 Tw 12 TL /F1 10 Tf 0 0 0 rg (By recovering this symmetric key, an attacker may then decrypt ) Tj /F5 10 Tf (base_keyring.keypair ) Tj /F1 10 Tf (to recover) Tj T* 0 Tw (the original ) Tj /F3 10 Tf (ElGamal ) Tj /F1 10 Tf (keypair.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 165.1045 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Issue B. Server Can Overwrite Client's Secrets) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 123.1045 cm
+q
+BT 1 0 0 1 0 26 Tm .363735 Tw 12 TL /F2 10 Tf 0 0 0 rg (Synopsis: ) Tj /F1 10 Tf (A server can send unexpected values in response to a client login, which values will overwrite) Tj T* 0 Tw 7.55372 Tw (the client's ) Tj /F5 10 Tf (Account ) Tj /F1 10 Tf (object's properties, including its ) Tj /F5 10 Tf (passphrase) Tj /F1 10 Tf (, ) Tj /F5 10 Tf (keypairCiphertext) Tj /F1 10 Tf (,) Tj T* 0 Tw /F5 10 Tf (containerNameHmacKeyCiphertext) Tj /F1 10 Tf (, and ) Tj /F5 10 Tf (hmacKeyCiphertext) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 81.10447 cm
+q
+BT 1 0 0 1 0 26 Tm .413876 Tw 12 TL /F2 10 Tf 0 0 0 rg (Impact: ) Tj /F1 10 Tf (The server can forge data to be displayed to the client, including the ability to overwrite any data) Tj T* 0 Tw .362619 Tw (that was written by the client before the server used this exploit. In addition, the server gains the ability to) Tj T* 0 Tw (read all data that is written by the client after the server uses this exploit.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R158': class PDFStream 
+158 0 obj
+% page stream
+<< /Length 5110 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 753.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Feasibility: ) Tj /F1 10 Tf (An attacker which has compromised the server can easily implement this attack.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 735.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Verification: ) Tj /F1 10 Tf (We verified this issue by source code inspection.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 681.0236 cm
+q
+BT 1 0 0 1 0 38 Tm 2.421976 Tw 12 TL /F2 10 Tf 0 0 0 rg (Implementation Analysis: ) Tj /F1 10 Tf (In ) Tj /F5 10 Tf (core.js) Tj /F1 10 Tf (, in ) Tj /F5 10 Tf (crypton.authorize ) Tj /F1 10 Tf (each property from the response) Tj T* 0 Tw .262927 Tw (body \(parsed as JSON\) is copied into the ) Tj /F5 10 Tf (Account ) Tj /F1 10 Tf (object. A server can therefore send a response body) Tj T* 0 Tw 5.83122 Tw (containing the JSON representation of properties named ) Tj /F5 10 Tf (passphrase) Tj /F1 10 Tf (, ) Tj /F5 10 Tf (keypairCiphertext) Tj /F1 10 Tf (,) Tj T* 0 Tw /F5 10 Tf (containerNameHmacKeyCiphertext) Tj /F1 10 Tf (, and ) Tj /F5 10 Tf (hmacKeyCiphertext) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 651.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .619983 Tw 12 TL /F1 10 Tf 0 0 0 rg (This causes the client's ) Tj /F5 10 Tf (Account ) Tj /F1 10 Tf (object to have those properties overwritten to contain values provided) Tj T* 0 Tw (by the server.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 597.0236 cm
+q
+BT 1 0 0 1 0 38 Tm .505814 Tw 12 TL /F1 10 Tf 0 0 0 rg (Immediately after copying those properties, the client calls ) Tj /F5 10 Tf (Account.unravel\(\)) Tj /F1 10 Tf (, which uses those four) Tj T* 0 Tw 7.766342 Tw (properties to set the values of several other properties: ) Tj /F5 10 Tf (secretKey) Tj /F1 10 Tf (, ) Tj /F5 10 Tf (pubKey) Tj /F1 10 Tf (, ) Tj /F5 10 Tf (symKey) Tj /F1 10 Tf (,) Tj T* 0 Tw 2.433828 Tw /F5 10 Tf (containerNameHmacKey) Tj /F1 10 Tf (, and ) Tj /F5 10 Tf (hmacKey) Tj /F1 10 Tf (. Since the server can control the values of the initial four) Tj T* 0 Tw (secrets, it can also control the values of those other properties that are set by ) Tj /F5 10 Tf (Account.unravel\(\)) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 549.0236 cm
+q
+BT 1 0 0 1 0 21 Tm 18 TL /F2 15 Tf 0 0 0 rg (Issue C. Modification of Container Contents By Filtering And) Tj T* (Reordering Patches) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 519.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .949398 Tw 12 TL /F2 10 Tf 0 0 0 rg (Synopsis: ) Tj /F1 10 Tf (A server can omit one or more records of the server's choice when delivering a container to) Tj T* 0 Tw (the client. It can combine this with reordering the records.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 489.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .813735 Tw 12 TL /F2 10 Tf 0 0 0 rg (Impact: ) Tj /F1 10 Tf (The server can manipulate the contents of the resulting container. For example, if the client set) Tj T* 0 Tw (the initial state of the container to the following JSON structure:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 419.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 60 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F5 10 Tf 12 TL ({) Tj T* (   "name": "Bob Lawblaw",) Tj T* (   "balance \(USD\)": "0") Tj T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 399.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (And then in the second state, the client changed the container to:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 330.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 60 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F5 10 Tf 12 TL ({) Tj T* (   "name": "Bob Lawblaw",) Tj T* (   "balance \(USD\)": "10000") Tj T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 310.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (And then finally the client changed the container to:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 217.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 84 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F5 10 Tf 12 TL ({) Tj T* (   "name": "Bob Lawblaw",) Tj T* (   "balance \(USD\)": "0") Tj T* (   "beneficiary": "Alice Salissa",) Tj T* (   "amount sent to beneficiary": "10000") Tj T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 185.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .037988 Tw (Then the server would be able to reorder the records to apply the last diff and then the middle diff, causing) Tj T* 0 Tw (the container to have the final value of:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 92.22362 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 84 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F5 10 Tf 12 TL ({) Tj T* (   "name": "Bob Lawblaw",) Tj T* (   "balance \(USD\)": "10000") Tj T* (   "beneficiary": "Alice Salissa",) Tj T* (   "amount sent to beneficiary": "10000") Tj T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+% 'R159': class PDFStream 
+159 0 obj
+% page stream
+<< /Length 6528 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 753.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Feasibility: ) Tj /F1 10 Tf (An attacker which has compromised the server can easily implement this attack.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 735.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Verification: ) Tj /F1 10 Tf (We verified this issue by source code inspection.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 657.0236 cm
+q
+BT 1 0 0 1 0 62 Tm 3.199069 Tw 12 TL /F2 10 Tf 0 0 0 rg (Implementation Analysis: ) Tj /F1 10 Tf (Crypton always uses ) Tj /F5 10 Tf (jsondiffpatch ) Tj /F1 10 Tf (to diff and patch the container) Tj T* 0 Tw .372706 Tw (contents. The resulting diffs are authenticated-encrypted independently and stored in transaction records.) Tj T* 0 Tw 2.65436 Tw (In correct operation, a client that is writing to a container must demonstrate knowledge of the last) Tj T* 0 Tw .137209 Tw (transaction id applied by the server; in that case, records will not be reordered. However, since there is no) Tj T* 0 Tw .608651 Tw (end-to-end authentication over the ordering or grouping of diffs, a server can freely reorder or selectively) Tj T* 0 Tw (drop diffs without detection.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 603.0236 cm
+q
+BT 1 0 0 1 0 38 Tm .604104 Tw 12 TL /F1 10 Tf 0 0 0 rg (As well as being vulnerable to a malicious or compromised server, the design choice of storing only diffs) Tj T* 0 Tw .116235 Tw (\(as opposed to, say, diffs together with hashes of the expected results\) has the consequence that Crypton) Tj T* 0 Tw 1.326342 Tw (relies on the ) Tj /F3 10 Tf (correctness ) Tj /F1 10 Tf (of the ) Tj /F5 10 Tf (jsondiffpatch ) Tj /F1 10 Tf (library \(and ) Tj /F5 10 Tf (google-diff-match-patch ) Tj /F1 10 Tf (library if) Tj T* 0 Tw (used?\) for security.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 555.0236 cm
+q
+BT 1 0 0 1 0 21 Tm 18 TL /F2 15 Tf 0 0 0 rg (Issue D. Guessable Private Keys On Browsers Without) Tj T* (crypto.getRandomValues\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 525.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .165984 Tw 12 TL /F2 10 Tf 0 0 0 rg (Synopsis: ) Tj /F1 10 Tf (A client will generate an elliptic curve private key without sufficient entropy, unless the browser) Tj T* 0 Tw (provides the ) Tj /F5 10 Tf (crypto.getRandomValues\(\) ) Tj /F1 10 Tf (API.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 507.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Impact: ) Tj /F1 10 Tf (An attacker who can get a copy of the ciphertext can read the client's plaintext data.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 489.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Feasibility: ) Tj /F1 10 Tf (An attacker which has compromised the server can easily implement this attack.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 471.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Verification: ) Tj /F1 10 Tf (We verified this issue by source code inspection.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 381.0236 cm
+q
+BT 1 0 0 1 0 74 Tm 18.64372 Tw 12 TL /F2 10 Tf 0 0 0 rg (Implementation Analysis: ) Tj /F1 10 Tf (Crypton core.js passes ) Tj /F5 10 Tf (paranoia == 0 ) Tj /F1 10 Tf (to) Tj T* 0 Tw 15.06854 Tw /F5 10 Tf (sjcl.ecc.elGamal.generateKeys\(\)) Tj /F1 10 Tf (, which means that on a browser without) Tj T* 0 Tw 1.632976 Tw /F5 10 Tf (crypto.getRandomValues\(\) ) Tj /F1 10 Tf (\(e.g. the current release of TorBrowser \227 TorBrowser 2.3.25-15\), the) Tj T* 0 Tw .645318 Tw (private key may be recoverable by an attacker. Although mouse movement events and the timestamp of) Tj T* 0 Tw .158221 Tw (an ) Tj /F5 10 Tf (onload ) Tj /F1 10 Tf (event are used to collect entropy, there is no guarantee that any mouse movments will occur,) Tj T* 0 Tw .247356 Tw (and the entropy of the timestamp is only a few bits. Provisionally, we believe this is likely to be insufficient) Tj T* 0 Tw (to prevent the private key being recovered.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 351.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Issue E. Encryption Key Disclosed To Server) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 333.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Synopsis: ) Tj /F1 10 Tf (A client disclosees to the server the symmetric encryption key that protects payloads.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 315.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Impact: ) Tj /F1 10 Tf (The server can read and forge all container contents.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 297.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Feasibility: ) Tj /F1 10 Tf (An attacker which has compromised the server can easily implement this attack.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 279.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Verification: ) Tj /F1 10 Tf (We verified this issue by source code inspection.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 213.0236 cm
+q
+BT 1 0 0 1 0 50 Tm 12.25195 Tw 12 TL /F2 10 Tf 0 0 0 rg (Implementation Analysis: ) Tj /F1 10 Tf (Crypton ) Tj /F3 10 Tf (account.js) Tj /F1 10 Tf ( ) Tj /F5 10 Tf (Account.prototype.serialize ) Tj /F1 10 Tf (returns) Tj T* 0 Tw 2.255433 Tw /F5 10 Tf (this.hmacKey) Tj /F1 10 Tf (. The return value from ) Tj /F5 10 Tf (Account.prototype.serialize ) Tj /F1 10 Tf (is sent to the server \(in) Tj T* 0 Tw 1.229147 Tw /F5 10 Tf (Account.prototype.save) Tj /F1 10 Tf (\). ) Tj /F5 10 Tf (this.hmacKey ) Tj /F1 10 Tf (is the key that is used to encrypt and authenticate the) Tj T* 0 Tw .993516 Tw (payloads, so disclosing it to the server enables the server to read and forge all payloads. An encrypted) Tj T* 0 Tw (copy of ) Tj /F5 10 Tf (hmacKey ) Tj /F1 10 Tf (is ) Tj /F3 10 Tf (also ) Tj /F1 10 Tf (sent to the server \227 ) Tj /F5 10 Tf (hmacKeyCiphertext) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 183.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.351654 Tw 12 TL /F1 10 Tf 0 0 0 rg (Note that the client does not read and use the cleartext copy ) Tj /F5 10 Tf (hmacKey) Tj /F1 10 Tf (, but instead gets the key from) Tj T* 0 Tw /F5 10 Tf (hmacKeyCiphertext) Tj /F1 10 Tf (, decrypted and authenticated using ) Tj /F5 10 Tf (symKey) Tj /F1 10 Tf (, in ) Tj /F5 10 Tf (Account.prototype.unravel) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 150.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Coverage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 132.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj 0 0 .501961 rg (Appendix A. Work Log ) Tj 0 0 0 rg (contains our investigation process which clarifies the current coverage.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R160': class PDFStream 
+160 0 obj
+% page stream
+<< /Length 4692 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Functional Areas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 705.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.54784 Tw 12 TL /F1 10 Tf 0 0 0 rg (As of this report revision, we've analyzed only the cryptographic design and implementation related to) Tj T* 0 Tw .602706 Tw (authentation, account generation and access, data confidentiality, and integrity issues. Additionally we've) Tj T* 0 Tw (done some black-box examination of the ) Tj /F5 10 Tf (HTTP ) Tj /F1 10 Tf (protocol level.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 675.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Areas with Less Coverage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 645.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .64186 Tw 12 TL /F1 10 Tf 0 0 0 rg (We did not comprehensively examine the ) Tj /F3 10 Tf (crypton ) Tj /F1 10 Tf (framework nor the ) Tj /F3 10 Tf (sjcl ) Tj /F1 10 Tf (library, except for the parts that) Tj T* 0 Tw (the ) Tj /F5 10 Tf (diary ) Tj /F1 10 Tf (app directly relies on.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 612.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Commendations & Recommendations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 582.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 2.313984 Tw 12 TL /F1 10 Tf 0 0 0 rg (We commend the developer deployment process. There were a few hurdles with the ) Tj /F3 10 Tf (ansible ) Tj /F1 10 Tf (/ ) Tj /F3 10 Tf (LXC) Tj T* 0 Tw /F1 10 Tf (based-deployment, but overall the process was quick and painless.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 564.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The code is easy to follow because it has no unnecessary layers of indirection or inheritance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 510.0236 cm
+q
+BT 1 0 0 1 0 38 Tm .74436 Tw 12 TL /F1 10 Tf 0 0 0 rg (Based on our initial code review, one recommendation we have is to move the property generation from) Tj T* 0 Tw 2.497976 Tw (out of ) Tj /F5 10 Tf (crypton.generateAccount ) Tj /F1 10 Tf (into the ) Tj /F5 10 Tf (Account ) Tj /F1 10 Tf (abstraction to improve encapsulation. After) Tj T* 0 Tw 1.748221 Tw (writing that recommendation in our initial interim draft 1 of this report, we discovered that this lack of) Tj T* 0 Tw (encapsulation is related to a security issue \227 Issue B.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 480.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Design and Implementation Recommendations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 450.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .126235 Tw 12 TL /F1 10 Tf 0 0 0 rg (Split account properties between "public" properties which the server can see and which are stored on the) Tj T* 0 Tw (db \(maybe call it ) Tj /F5 10 Tf (AccountDBRecord) Tj /F1 10 Tf (?\) and an account secret holder object.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 423.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Immutable versus Mutable APIs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 405.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (We prefer immutable APIs when possible, rather than mutating APIs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 351.0236 cm
+q
+BT 1 0 0 1 0 38 Tm .58998 Tw 12 TL /F1 10 Tf 0 0 0 rg (As an example, the ) Tj /F5 10 Tf (Account.prototype.unravel ) Tj /F1 10 Tf (method is mutating: It expects ) Tj /F3 10 Tf (some ) Tj /F1 10 Tf (properties to) Tj T* 0 Tw .044104 Tw (be set as a precondition, and as a side effect it updates ) Tj /F3 10 Tf (other ) Tj /F1 10 Tf (properties. This documentation leaves these) Tj T* 0 Tw 1.497984 Tw (side-effects ambiguous, so it is difficult to determine which properties are input, which are output, and) Tj T* 0 Tw (which are read/write.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 309.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .22311 Tw 12 TL /F1 10 Tf 0 0 0 rg (An immutable API would take the input properties as explicit parameters, instead, and would return a new) Tj T* 0 Tw .62683 Tw (object with only the resulting output properties. Or, it may be convenient in this case it may return a new) Tj T* 0 Tw (fully initialized ) Tj /F5 10 Tf (Account ) Tj /F1 10 Tf (instance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 276.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Future Work) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 234.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .536457 Tw 12 TL /F1 10 Tf 0 0 0 rg (This section is unfinished as of yet, and will contain all unresolved issues, questions and concerns at the) Tj T* 0 Tw .262927 Tw (conclusion of the audit. Please see the ) Tj /F5 10 Tf ([UNRESOLVED] ) Tj /F1 10 Tf (sections of the Work Log for issues to be moved) Tj T* 0 Tw (into this section.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 234.0236 cm
+Q
+ 
+endstream
+endobj
+% 'R161': class PDFStream 
+161 0 obj
+% page stream
+<< /Length 6080 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Appendix A. Work Log) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 702.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .50528 Tw (This section gives a coarse summary of the kinds of analysis performed during the audit. The entries are) Tj T* 0 Tw .021647 Tw (chronological, so they may contained questions, ambiguities, or misunderstands which were resolved later) Tj T* 0 Tw (in the report. We keep track of changes over time to different revisions of this report.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 672.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Issue Resolution Convention) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 654.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (We keep track of whether chronological issues are resolved or not with this convention:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+Q
+q
+1 0 0 1 62.69291 624.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 3.210888 Tw 12 TL /F1 10 Tf 0 0 0 rg (Unresolved questions or investigations are prefixed with ) Tj /F5 10 Tf ([UNRESOLVED]) Tj /F1 10 Tf (. The final report will) Tj T* 0 Tw (convert all of these labels into intradocument links to a relevant area of the future work section.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 618.0236 cm
+Q
+q
+1 0 0 1 62.69291 582.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm 3.300888 Tw 12 TL /F1 10 Tf 0 0 0 rg (Resolved questions or investigations are marked prefixed with ) Tj /F5 10 Tf ([RESOLVED] ) Tj /F1 10 Tf (and are always) Tj T* 0 Tw 5.73152 Tw (intradocument links to an area with the answer, such as a vulnerability description, a) Tj T* 0 Tw (nonvulnerability, or a coverage description.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 582.0236 cm
+Q
+q
+1 0 0 1 62.69291 570.0236 cm
+Q
+q
+1 0 0 1 62.69291 487.0236 cm
+.960784 .960784 .862745 rg
+n 0 83 469.8898 -83 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 57 Tm  T* ET
+q
+1 0 0 1 16 52 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F4 12.5 Tf 15 TL (Auditing To-Do) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+BT 1 0 0 1 0 14 Tm 2.261797 Tw 12 TL /F1 10 Tf 0 0 0 rg (Change the ) Tj /F5 10 Tf ([UNRESOLVED] ) Tj /F1 10 Tf (labels to ) Tj /F5 10 Tf ([RESOLVED] ) Tj /F1 10 Tf (intradocument links as we resolve each) Tj T* 0 Tw (issue.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 83 m 469.8898 83 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 83 l S
+n 469.8898 0 m 469.8898 83 l S
+Q
+Q
+q
+1 0 0 1 62.69291 481.0236 cm
+Q
+q
+1 0 0 1 62.69291 469.0236 cm
+Q
+q
+1 0 0 1 62.69291 386.0236 cm
+.960784 .960784 .862745 rg
+n 0 83 469.8898 -83 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 57 Tm  T* ET
+q
+1 0 0 1 16 52 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F4 12.5 Tf 15 TL (Auditing To-Do - Final Draft) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+BT 1 0 0 1 0 14 Tm 1.844983 Tw 12 TL /F1 10 Tf 0 0 0 rg (Any remaining ) Tj /F5 10 Tf ([UNRESOLVED] ) Tj /F1 10 Tf (labels need to be covered in the future work section, and the) Tj T* 0 Tw (labels need to point to the relevant future work.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 83 m 469.8898 83 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 83 l S
+n 469.8898 0 m 469.8898 83 l S
+Q
+Q
+q
+1 0 0 1 62.69291 380.0236 cm
+Q
+q
+1 0 0 1 62.69291 332.0236 cm
+q
+BT 1 0 0 1 0 21 Tm 18 TL /F2 15 Tf 0 0 0 rg (Day 1 - Source Checkout, Developer Installation, Documentation) Tj T* (Pass) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 302.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.791984 Tw 12 TL /F1 10 Tf 0 0 0 rg (We cloned / pulled ) Tj /F3 10 Tf (Crypton) Tj /F1 10 Tf (, read documentation, and began learning how to do a local development) Tj T* 0 Tw (deploy.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 272.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Day 2 - Developer Installation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 242.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .658443 Tw 12 TL /F1 10 Tf 0 0 0 rg (We installed ) Tj /F3 10 Tf (Crypton ) Tj /F1 10 Tf (using the recent ) Tj /F3 10 Tf (ansible ) Tj /F1 10 Tf (developer deployment configuration. \(Thanks to ) Tj /F3 10 Tf (ddahl ) Tj /F1 10 Tf (and) Tj T* 0 Tw /F3 10 Tf (alan) Tj /F1 10 Tf (!\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 212.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Day 3 - Blackbox/UX Exploration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 158.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 2.127318 Tw (We prefer to begin an audit by playing with the software without reviewing design documentation or) Tj T* 0 Tw .641235 Tw (source code. This keeps our initial impressions closer to the user experience and guides our initial focus) Tj T* 0 Tw .013984 Tw (on the design and implementation. However, unlike true blackbox penetration testing, we make a note and) Tj T* 0 Tw (move on when we have a question which is more efficiently answered by code review.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 128.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .25686 Tw 12 TL /F1 10 Tf 0 0 0 rg (So we began by experimenting with the ) Tj /F3 10 Tf (diary ) Tj /F1 10 Tf (application and making observations about it detailed in this) Tj T* 0 Tw (section.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 101.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Initial Exploration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 89.02362 cm
+Q
+q
+1 0 0 1 62.69291 89.02362 cm
+Q
+q
+1 0 0 1 62.69291 77.02362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Registered a new user.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 76.86614 cm
+Q
+ 
+endstream
+endobj
+% 'R162': class PDFStream 
+162 0 obj
+% page stream
+<< /Length 10037 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 753.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created a new entry.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 747.0236 cm
+Q
+q
+1 0 0 1 62.69291 681.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 51 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Examined the ) Tj /F3 10 Tf (Chrome ) Tj /F1 10 Tf (developer console to get a feel for the ) Tj /F3 10 Tf (HTTP ) Tj /F1 10 Tf (layer protocol, and noticed:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 45 cm
+Q
+q
+1 0 0 1 23 45 cm
+Q
+q
+1 0 0 1 23 33 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The username is visible to the server, and it used in ) Tj /F3 10 Tf (URL ) Tj /F1 10 Tf (paths.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 27 cm
+Q
+q
+1 0 0 1 23 15 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (There appear to be REST-ful apis at ) Tj /F5 10 Tf (/account ) Tj /F1 10 Tf (and ) Tj /F5 10 Tf (/transaction) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (There appears to be a separate polling interface at ) Tj /F5 10 Tf (/socket.io) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 675.0236 cm
+Q
+q
+1 0 0 1 62.69291 639.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm 2.522651 Tw 12 TL /F1 10 Tf 0 0 0 rg (Transactions seen so far appear to have a ) Tj /F3 10 Tf (create, modify, commit ) Tj /F1 10 Tf (lifecycle, with one or more) Tj T* 0 Tw 3.084524 Tw (modifications. Modifications have request payloads, whereas ) Tj /F3 10 Tf (create ) Tj /F1 10 Tf (and ) Tj /F3 10 Tf (commit ) Tj /F1 10 Tf (appear to be) Tj T* 0 Tw (without request payloads.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 633.0236 cm
+Q
+q
+1 0 0 1 10.1378 545.6581 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 72.36555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (5.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 72.36555 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (When a new entry was created, the request payload to ) Tj /F5 10 Tf (/transaction/12 ) Tj /F1 10 Tf (was \(ciphertext truncated for readability\):) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+q
+.790675 0 0 .790675 0 0 cm
+q
+1 0 0 1 6.6 8.347293 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 564 84 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F5 10 Tf 12 TL ({) Tj T* (  "containerNameHmac": "feb831cc366f12a073b266d7bc96e119d5ef6e6f5c41d2c9734664d1fbbe7ae3",) Tj T* (  "payloadCiphertext": "{\\"iv\\":\\"uqY6MO+yLrbrC7Pc0vu6Qg\\",\\"v\\":1,\\"iter\\":1000,\\"ks\\":128,) Tj T* (    \\"ts\\":64,\\"mode\\":\\"gcm\\",\\"adata\\":\\"\\",\\"cipher\\":\\"aes\\",\\"ct\\":\\"g3JZOF[...]\\"}",) Tj T* (  "type": "addContainerRecord") Tj T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 539.6581 cm
+Q
+q
+1 0 0 1 10.1378 452.2925 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 72.36555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (6.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 72.36555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (After editing that entry and saving again, a new transaction update had this payload:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+q
+.790675 0 0 .790675 0 0 cm
+q
+1 0 0 1 6.6 8.347293 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 564 84 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F5 10 Tf 12 TL ({) Tj T* (  "containerNameHmac": "feb831cc366f12a073b266d7bc96e119d5ef6e6f5c41d2c9734664d1fbbe7ae3",) Tj T* (  "payloadCiphertext": "{\\"iv\\":\\"QhJmJAlN9OiJJUp5bP/wrA\\",\\"v\\":1,\\"iter\\":1000,\\"ks\\":128,) Tj T* (    \\"ts\\":64,\\"mode\\":\\"gcm\\",\\"adata\\":\\"\\",\\"cipher\\":\\"aes\\",\\"ct\\":\\"dBZHSP[...]\\"}",) Tj T* (  "type": "addContainerRecord") Tj T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 452.2925 cm
+Q
+q
+1 0 0 1 62.69291 446.2925 cm
+Q
+q
+1 0 0 1 62.69291 134.2925 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 300 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (This raises a question about the container name:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 294 cm
+Q
+q
+1 0 0 1 20 294 cm
+Q
+q
+1 0 0 1 20 282 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (How is ) Tj /F5 10 Tf (containerNameHmac ) Tj /F1 10 Tf (calculated?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 282 cm
+Q
+q
+1 0 0 1 20 228 cm
+q
+BT 1 0 0 1 0 38 Tm .976303 Tw 12 TL /F1 10 Tf 0 0 0 rg (The container name does not appear to be in cleartext to the server, so we expect it to be present) Tj T* 0 Tw 2.603615 Tw (inside the ciphertext ) Tj /F5 10 Tf (ct) Tj /F1 10 Tf (. However, the ) Tj /F5 10 Tf (containerNameHmac ) Tj /F1 10 Tf (cannot provide integrity over the) Tj T* 0 Tw 1.254104 Tw (whole ) Tj /F3 10 Tf (entry) Tj /F1 10 Tf (, because it did not change when we changed the entry text, and we see the resulting) Tj T* 0 Tw (ciphertext ) Tj /F5 10 Tf (ct ) Tj /F1 10 Tf (field is different between ) Tj /F3 10 Tf (entry ) Tj /F1 10 Tf (revisions. This leads to a second question:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 222 cm
+Q
+q
+1 0 0 1 20 222 cm
+Q
+q
+1 0 0 1 20 210 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (How is the integrity of an entry revision protected?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 210 cm
+Q
+q
+1 0 0 1 20 168 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .874269 Tw (Also, we don't notice any overt cleartext about revision ordering. The server providing storage must) Tj T* 0 Tw 2.55784 Tw (choose whether to store a given entry revision, and it probably provides some assertion about) Tj T* 0 Tw (revision ordering, so there are two more questions:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 162 cm
+Q
+q
+1 0 0 1 20 162 cm
+Q
+q
+1 0 0 1 20 138 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.039213 Tw (Does the server provide revision ordering features? For example, deleting all but "the most) Tj T* 0 Tw (recent" entry is a kind of ordering.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 132 cm
+Q
+q
+1 0 0 1 20 120 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (How does the server enforce this ordering?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 114 cm
+Q
+q
+1 0 0 1 20 90 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.398443 Tw (Can malicious network eavesdroppers replay entries to confuse clients or the server as to) Tj T* 0 Tw (proper order?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 90 cm
+Q
+q
+1 0 0 1 20 48 cm
+q
+BT 1 0 0 1 0 26 Tm 5.836905 Tw 12 TL /F1 10 Tf 0 0 0 rg (While investigating requests to the ) Tj /F5 10 Tf (/container ) Tj /F1 10 Tf (URL path, which is a ) Tj /F5 10 Tf (GET ) Tj /F1 10 Tf (with the) Tj T* 0 Tw 3.74748 Tw /F5 10 Tf (containerNameHmac ) Tj /F1 10 Tf (as the last URL path component, we noticed cleartext fields such as) Tj T* 0 Tw /F5 10 Tf (containerRecordId ) Tj /F1 10 Tf (and ) Tj /F5 10 Tf (transactionId) Tj /F1 10 Tf (. So our questions are refined to:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 42 cm
+Q
+q
+1 0 0 1 20 42 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 1.091976 Tw 12 TL /F1 10 Tf 0 0 0 rg (Are ) Tj /F5 10 Tf (containerRecordId ) Tj /F1 10 Tf (or ) Tj /F5 10 Tf (transactionId ) Tj /F1 10 Tf (or some other mechanism used for ordering) Tj T* 0 Tw (container records?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Do these cleartext fields have integrity protection?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 134.2925 cm
+Q
+q
+1 0 0 1 62.69291 107.2925 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Session Management Investigation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 77.29253 cm
+q
+BT 1 0 0 1 0 14 Tm .569985 Tw 12 TL /F1 10 Tf 0 0 0 rg (After the initial pass over using the ) Tj /F3 10 Tf (diary ) Tj /F1 10 Tf (example application, we started to explore account and session) Tj T* 0 Tw (management behaviors.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R163': class PDFStream 
+163 0 obj
+% page stream
+<< /Length 8200 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 753.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (Cookies) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.123516 Tw 12 TL /F1 10 Tf 0 0 0 rg (Leaving the given tab open \(in ) Tj /F3 10 Tf (Chrome Private Browsing Mode) Tj /F1 10 Tf (\), we opened a new tab and pasted the) Tj T* 0 Tw 1.617633 Tw /F3 10 Tf (diary ) Tj /F1 10 Tf (URL, which loads the login screen. Reloading a tag similarly brings us to the login screen. This) Tj T* 0 Tw (suggests the session state is managed without cookies. However two cookies are present:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 670.3631 cm
+q
+q
+.87797 0 0 .87797 0 0 cm
+q
+1 0 0 1 6.6 7.517338 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 534 36 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F5 10 Tf 12 TL (crypton.sid: s%3AgyFqVnAOkHXh91QJqND5j52I.%2ButTmaHvvJ7dXkECNSM8ZTp1bwYh44NAnAPbk9PQxHI) Tj T* (uid: AAAAKlKeaz8ILk2QAwMEAg==) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 638.3631 cm
+q
+BT 1 0 0 1 0 14 Tm 1.047356 Tw 12 TL /F1 10 Tf 0 0 0 rg (We notice the ) Tj /F5 10 Tf (uid ) Tj /F1 10 Tf (is not a high entroy value \(with some high probability\), but we'll leave that for code) Tj T* 0 Tw (review:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 632.3631 cm
+Q
+q
+1 0 0 1 62.69291 632.3631 cm
+Q
+q
+1 0 0 1 62.69291 620.3631 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F5 10 Tf 0 0 0 rg ([UNRESOLVED] ) Tj /F1 10 Tf (How are the cookies ) Tj /F5 10 Tf (crypton.sid ) Tj /F1 10 Tf (and ) Tj /F5 10 Tf (uid ) Tj /F1 10 Tf (consumed?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 614.3631 cm
+Q
+q
+1 0 0 1 62.69291 542.3631 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (If their usage has any security implications, how do -) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 51 cm
+Q
+q
+1 0 0 1 23 51 cm
+Q
+q
+1 0 0 1 23 27 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .148314 Tw 12 TL /F5 10 Tf 0 0 0 rg ([UNRESOLVED] ) Tj /F1 10 Tf (clients protect themselves from values altered maliciously by a server or active) Tj T* 0 Tw (MITM?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .148314 Tw 12 TL /F5 10 Tf 0 0 0 rg ([UNRESOLVED] ) Tj /F1 10 Tf (servers protect themselves from values altered maliciously by a client or active) Tj T* 0 Tw (MITM?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 542.3631 cm
+Q
+q
+1 0 0 1 62.69291 530.3631 cm
+Q
+q
+1 0 0 1 62.69291 441.3631 cm
+.960784 .960784 .862745 rg
+n 0 89 469.8898 -89 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 63 Tm  T* ET
+q
+1 0 0 1 16 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F4 12.5 Tf 15 TL (Auditor To-Do) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 34 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Incorporate this information from a developer interview into this document:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (From Alan: ) Tj /F5 10 Tf (uid ) Tj /F1 10 Tf (added by ) Tj /F5 10 Tf (nginx) Tj /F1 10 Tf (. We are not sure about ) Tj /F5 10 Tf (crypton.sid ) Tj /F1 10 Tf (yet.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 89 m 469.8898 89 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 89 l S
+n 469.8898 0 m 469.8898 89 l S
+Q
+Q
+q
+1 0 0 1 62.69291 435.3631 cm
+Q
+q
+1 0 0 1 62.69291 411.3631 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (Login Protocol) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 381.3631 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.564983 Tw (The login sequence appears to have a challenge/response system, which implies the user and server) Tj T* 0 Tw (share a secret, or asymmetric cryptography may be used to provide authentication.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 375.3631 cm
+Q
+q
+1 0 0 1 62.69291 375.3631 cm
+Q
+q
+1 0 0 1 62.69291 333.3631 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.968651 Tw (How is the shared secret or asymmetric secret key derived in the client from username and) Tj T* 0 Tw (password?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Are there other inputs to this secret derivation?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 327.3631 cm
+Q
+q
+1 0 0 1 62.69291 315.3631 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (How does the server associate the shared secret or asymmetric public key with a given user?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 309.3631 cm
+Q
+q
+1 0 0 1 62.69291 165.3631 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (How are the authentication secrets related to the user's content confidentiality or integrity secrets?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 123 cm
+Q
+q
+1 0 0 1 23 123 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Are the user content secrets are derived from the same source as the authentication secrets?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 105 cm
+Q
+q
+1 0 0 1 23 105 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 81 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .416651 Tw (If so, can a server or eavesdropper learn the user content secrets given knowledge of the) Tj T* 0 Tw (authentication shared secret or public key or any other datum related to authentication?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.320751 Tw (If so this would be a vulnerability in confidentiality or integrity protections against the) Tj T* 0 Tw (server.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .00936 Tw (It may be essential to consider the roles of separate web servers in this investigation of the) Tj T* 0 Tw .474147 Tw (interaction between user data and authentication secrets. For example, there may be one) Tj T* 0 Tw 3.292976 Tw (authentication website, and a distinct user-data-storage website, for a separation of) Tj T* 0 Tw (concerns.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 159.3631 cm
+Q
+q
+1 0 0 1 62.69291 135.3631 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.025366 Tw (Is the challenge/response protocol an adequate protocol for proving knowledge of a secret without) Tj T* 0 Tw (revealing too much information to an eavesdropper \(or the server\)?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 135.3631 cm
+Q
+ 
+endstream
+endobj
+% 'R164': class PDFStream 
+164 0 obj
+% page stream
+<< /Length 6166 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Day 4 - Code Analysis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 717.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .797633 Tw 12 TL /F1 10 Tf 0 0 0 rg (We used a depth first approach to code analysis, starting with the open questions from the previous UX) Tj T* 0 Tw (exploration and examining the example ) Tj /F3 10 Tf (diary ) Tj /F1 10 Tf (application.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 690.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Authentication) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 3.21284 Tw 12 TL /F1 10 Tf 0 0 0 rg (We began by drilling down the stack from ) Tj /F5 10 Tf (diary.js ) Tj /F1 10 Tf (through the ) Tj /F5 10 Tf (crypton ) Tj /F1 10 Tf (client framework to) Tj T* 0 Tw .606235 Tw (understand how the username / password entry serves to protect the users data from a malicious server) Tj T* 0 Tw (or active MITM.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 570.0236 cm
+q
+BT 1 0 0 1 0 62 Tm .898735 Tw 12 TL /F1 10 Tf 0 0 0 rg (The entry point for user input to register a new account is the ) Tj /F5 10 Tf (actions.register ) Tj /F1 10 Tf (handler function in) Tj T* 0 Tw 1.909979 Tw /F5 10 Tf (diary.js ) Tj /F1 10 Tf (which performs some UI functionality around a call to ) Tj /F5 10 Tf (crypton.generateAccount) Tj /F1 10 Tf (. The) Tj T* 0 Tw 1.030888 Tw (latter function generates many cryptographically relevant values, then optionally saves them, depending) Tj T* 0 Tw .927633 Tw (on an option from the caller. Before we analyze their generation and use, we want to understand which) Tj T* 0 Tw 1.302485 Tw (values are stored on the server during a save in which manner. This will answer some coarse-grained) Tj T* 0 Tw (questions about the implication of server-side saving:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 564.0236 cm
+Q
+q
+1 0 0 1 62.69291 564.0236 cm
+Q
+q
+1 0 0 1 62.69291 540.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .468735 Tw 12 TL /F5 10 Tf 0 0 0 rg ([UNRESOLVED] ) Tj /F1 10 Tf (If a client does not perform a save, are there security features which protect a user) Tj T* 0 Tw (from a malicious server? If so, what are they?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 534.0236 cm
+Q
+q
+1 0 0 1 62.69291 498.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm 1.132126 Tw 12 TL /F5 10 Tf 0 0 0 rg ([UNRESOLVED] ) Tj /F1 10 Tf (If a client does perform a save, which security features are present which protect) Tj T* 0 Tw .478443 Tw (them from a malicious server, or a presently non-malicious server which may become compromised) Tj T* 0 Tw (in the future?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 498.0236 cm
+Q
+q
+1 0 0 1 62.69291 456.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 2.706342 Tw 12 TL /F1 10 Tf 0 0 0 rg (While investigating the ) Tj /F5 10 Tf (client/src/account.js ) Tj /F1 10 Tf (code, we see that the ) Tj /F5 10 Tf (Account ) Tj /F1 10 Tf (constructor is) Tj T* 0 Tw .11811 Tw (empty, and the API depends on callers properly setting properties on the resulting instance. This API style) Tj T* 0 Tw (concerns us, because it forces callers to maintain proper invariants and lacks encapsulation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 426.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Day 5 - Code & Design Analysis and Reporting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 399.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Reporting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 357.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .379461 Tw (At the end of each week, we write up our progress and findings into a report revision. Each week's report) Tj T* 0 Tw .042093 Tw (is a newer revision of the same document, so on Day 5 most of our time was spent addressing unresolved) Tj T* 0 Tw (questions and To-Do's in the report.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 327.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Day 6 - Developer Interview & Design Audit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 285.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 2.13311 Tw 12 TL /F1 10 Tf 0 0 0 rg (We had a call with the Crypton developers to present the current findings and solicit feedback. The) Tj T* 0 Tw .727251 Tw (developers requested we investigate the authentication system and challenge/response protocol, as well) Tj T* 0 Tw (as to investigate the ) Tj /F3 10 Tf (inbox ) Tj /F1 10 Tf (mechanism for cross-user interactions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 255.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .567765 Tw 12 TL /F1 10 Tf 0 0 0 rg (We agreed to focus on the authentication system for now. The ) Tj /F3 10 Tf (inbox ) Tj /F1 10 Tf (mechanism is out of our scope, but) Tj T* 0 Tw (we may glance at it if we have time.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 249.0236 cm
+Q
+q
+1 0 0 1 62.69291 249.0236 cm
+Q
+q
+1 0 0 1 62.69291 183.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+BT 1 0 0 1 0 38 Tm 6.121953 Tw 12 TL /F5 10 Tf 0 0 0 rg ([UNRESOLVED] ) Tj /F1 10 Tf (The database stores ) Tj /F5 10 Tf (base_keyring.container_name_hmac_key ) Tj /F1 10 Tf (which) Tj T* 0 Tw 2.449069 Tw (contains an encrypted key, which is unencrypted and used to generate ) Tj /F5 10 Tf (containerNameHmac) Tj /F1 10 Tf (.) Tj T* 0 Tw .101085 Tw (Since ) Tj /F5 10 Tf (base_keyring.container_name_hmac_key ) Tj /F1 10 Tf (is already encrypted with some other key, ) Tj /F3 10 Tf (K) Tj /F1 10 Tf (,) Tj T* 0 Tw (why not just encrypt the container name with ) Tj /F3 10 Tf (K) Tj /F1 10 Tf (?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (What benefits and drawbacks are introduced by this extra layer?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 183.0236 cm
+Q
+q
+1 0 0 1 62.69291 171.0236 cm
+Q
+ 
+endstream
+endobj
+% 'R165': class PDFStream 
+165 0 obj
+% page stream
+<< /Length 6142 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 670.0236 cm
+.960784 .960784 .862745 rg
+n 0 95 469.8898 -95 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 69 Tm  T* ET
+q
+1 0 0 1 16 64 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F4 12.5 Tf 15 TL (Note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+BT 1 0 0 1 0 26 Tm .293059 Tw 12 TL /F1 10 Tf 0 0 0 rg (It would be beneficial to have clear terminology to disambiguate cryptographic keys from database) Tj T* 0 Tw .621235 Tw (indexing keys. \(This is a general security engineering issue.\) The word ) Tj /F3 10 Tf (index ) Tj /F1 10 Tf (can refer either to a) Tj T* 0 Tw (lookup datum or the mapping structure.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 95 m 469.8898 95 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 95 l S
+n 469.8898 0 m 469.8898 95 l S
+Q
+Q
+q
+1 0 0 1 62.69291 664.0236 cm
+Q
+q
+1 0 0 1 62.69291 634.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Day 7 - ???) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 616.0236 cm
+Q
+q
+1 0 0 1 62.69291 545.0236 cm
+.960784 .960784 .862745 rg
+n 0 71 469.8898 -71 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 45 Tm  T* ET
+q
+1 0 0 1 16 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F4 12.5 Tf 15 TL (Auditor To-Do) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Summarize entries from individual work logs for this day here.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 71 m 469.8898 71 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 71 l S
+n 469.8898 0 m 469.8898 71 l S
+Q
+Q
+q
+1 0 0 1 62.69291 539.0236 cm
+Q
+q
+1 0 0 1 62.69291 509.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Day 8 - Account Generation Audit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 467.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .923555 Tw 12 TL /F1 10 Tf 0 0 0 rg (We verified that ) Tj /F5 10 Tf (diary.js ) Tj /F1 10 Tf (does not touch ) Tj /F5 10 Tf (sjcl ) Tj /F1 10 Tf (directly and instead the cryptographic operations are) Tj T* 0 Tw 1.133307 Tw (completely encapsulated in the ) Tj /F3 10 Tf (crypton ) Tj /F1 10 Tf (framework. We investigated the ) Tj /F5 10 Tf (crypton.generateAccount) Tj T* 0 Tw /F1 10 Tf (function closely to understand the cryptographic relationships between the parameters generated within it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 437.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.217318 Tw 12 TL /F1 10 Tf 0 0 0 rg (We investigated the ) Tj /F3 10 Tf (pbkdf2 ) Tj /F1 10 Tf (parameters to verify that it uses 1000 iterations with ) Tj /F5 10 Tf (HMAC-SHA256 ) Tj /F1 10 Tf (and a) Tj T* 0 Tw (64-bit salt. We are not certain that 1000 iterations is sufficient.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 425.0236 cm
+Q
+q
+1 0 0 1 62.69291 342.0236 cm
+.960784 .960784 .862745 rg
+n 0 83 469.8898 -83 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 57 Tm  T* ET
+q
+1 0 0 1 16 52 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F4 12.5 Tf 15 TL (Auditor To-Do) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+BT 1 0 0 1 0 14 Tm 2.17784 Tw 12 TL /F1 10 Tf 0 0 0 rg (Decide if we should recommend any change to these parameters. Perhaps ) Tj /F3 10 Tf (scrypt ) Tj /F1 10 Tf (is a better) Tj T* 0 Tw (candidate, although it does not appear to be available in ) Tj /F3 10 Tf (sjcl) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 83 m 469.8898 83 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 83 l S
+n 469.8898 0 m 469.8898 83 l S
+Q
+Q
+q
+1 0 0 1 62.69291 336.0236 cm
+Q
+q
+1 0 0 1 62.69291 318.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (We are learning about the ) Tj /F5 10 Tf (kem\(\) ) Tj /F1 10 Tf (method of ) Tj /F3 10 Tf (elGamal ) Tj /F1 10 Tf (key pairs:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 312.0236 cm
+Q
+q
+1 0 0 1 62.69291 312.0236 cm
+Q
+q
+1 0 0 1 62.69291 288.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 2.301984 Tw 12 TL /F5 10 Tf 0 0 0 rg ([UNRESOLVED] ) Tj /F1 10 Tf (Can the owner of the ) Tj /F3 10 Tf (elGamal ) Tj /F1 10 Tf (secret key derive the ) Tj /F5 10 Tf (kem ) Tj /F1 10 Tf (key given the ) Tj /F5 10 Tf (tag) Tj T* 0 Tw /F1 10 Tf (portion?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 282.0236 cm
+Q
+q
+1 0 0 1 62.69291 252.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F5 10 Tf 0 0 0 rg ([RESOLVED] ) Tj /F1 10 Tf (Why is ) Tj /F5 10 Tf (paranoia == 0 ) Tj /F1 10 Tf (and what impact does that have?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (It specifies how much entropy is required in order to proceed with the given computation.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 252.0236 cm
+Q
+q
+1 0 0 1 62.69291 240.0236 cm
+Q
+q
+1 0 0 1 62.69291 169.0236 cm
+.960784 .960784 .862745 rg
+n 0 71 469.8898 -71 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 45 Tm  T* ET
+q
+1 0 0 1 16 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F4 12.5 Tf 15 TL (Auditor To-Do) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Investigate how ) Tj /F3 10 Tf (sjcl ) Tj /F1 10 Tf (entropy generation / gathering works, and how ) Tj /F5 10 Tf (paranoia ) Tj /F1 10 Tf (interacts with it.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 71 m 469.8898 71 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 71 l S
+n 469.8898 0 m 469.8898 71 l S
+Q
+Q
+q
+1 0 0 1 62.69291 163.0236 cm
+Q
+q
+1 0 0 1 62.69291 133.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Day 9 - Furiously Writing Up Results) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 115.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Finished and delivered "draft 2, 2013-12-13".) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R166': class PDFStream 
+166 0 obj
+% page stream
+<< /Length 9367 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Day 10 - Hunting For More Bugs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 717.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.723555 Tw 12 TL /F5 10 Tf 0 0 0 rg (sessionKey ) Tj /F1 10 Tf (is never actually used for anything, just encrypted and decrypted and passed back and) Tj T* 0 Tw (forth. ) Tj /F5 10 Tf (keyshmac ) Tj /F1 10 Tf (is unused.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 675.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .882651 Tw 12 TL /F1 10 Tf 0 0 0 rg (The encryption key used to encrypt payload contents is named ) Tj /F5 10 Tf (hmacKey) Tj /F1 10 Tf (. That seems to be inaccurate,) Tj T* 0 Tw .89881 Tw (possibly vestigial of an earlier design? It is used as the symmetric encryption key for AES-GCM, not for) Tj T* 0 Tw (HMAC.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 657.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F5 10 Tf 0 0 0 rg (hmacKey ) Tj /F1 10 Tf (gets sent to the server in ) Tj /F5 10 Tf (Account.prototype.serialize) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 630.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Challenge/Response Protocol) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 612.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Inside ) Tj /F5 10 Tf (crypton.authorize) Tj /F1 10 Tf (:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 606.0236 cm
+Q
+q
+1 0 0 1 62.69291 606.0236 cm
+Q
+q
+1 0 0 1 62.69291 342.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 249 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 249 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F5 10 Tf 0 0 0 rg ([RESOLVED] ) Tj /F1 10 Tf (How is ) Tj /F5 10 Tf (challengeKeySalt ) Tj /F1 10 Tf (selected by a server?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 243 cm
+Q
+q
+1 0 0 1 23 243 cm
+Q
+q
+1 0 0 1 23 183 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 50 Tm 17.58872 Tw 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F5 10 Tf (challengeKeySalt ) Tj /F1 10 Tf (is normally chosen by a client during) Tj T* 0 Tw 1.35748 Tw /F5 10 Tf (crypton.generateAccount) Tj /F1 10 Tf (, then stored by the server and repeated back to the client on) Tj T* 0 Tw 1.001647 Tw (each authentication. So the server may send the same challenge for multiple authentications.) Tj T* 0 Tw 1.853555 Tw (This may allow a replay attack by someone who records a challenge/response \(if they can) Tj T* 0 Tw (defeat the TLS layer\), even though the eavesdropper does not know the passphrase.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 177 cm
+Q
+q
+1 0 0 1 23 129 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 38 Tm 1.223314 Tw 12 TL /F5 10 Tf 0 0 0 rg ([UNRESOLVED] ) Tj /F1 10 Tf (If the server stores or knows ) Tj /F5 10 Tf (challengeKeySalt) Tj /F1 10 Tf (, it can perform an offline) Tj T* 0 Tw 1.739213 Tw (brute force attack. This is common to all \(?\) passphrase authentication protocols where the) Tj T* 0 Tw 1.839318 Tw (server holds a verifier and salt, but the client only knows the passphrase and cannot store) Tj T* 0 Tw (anything else.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 123 cm
+Q
+q
+1 0 0 1 23 87 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm 1.494524 Tw 12 TL /F5 10 Tf 0 0 0 rg ([UNRESOLVED] ) Tj /F1 10 Tf (The server can select a ) Tj /F5 10 Tf (challengeKeySalt ) Tj /F1 10 Tf (in an authorize request, and) Tj T* 0 Tw .183555 Tw (therefore can choose a salt that facilitates attack by a precomputed rainbow table \(applicable to) Tj T* 0 Tw (all users\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 81 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 69 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 74 Tm 4.967251 Tw 12 TL /F5 10 Tf 0 0 0 rg ([RESOLVED] ) Tj /F1 10 Tf (See ) Tj 0 0 .501961 rg (Issue A. ElGamal keypair recovery vulnerability ) Tj 0 0 0 rg (- If the Account's) Tj T* 0 Tw .309979 Tw /F5 10 Tf (keypairSalt ) Tj /F1 10 Tf (is sent as the ) Tj /F5 10 Tf (challengeKeySalt) Tj /F1 10 Tf (, then the challenge response, computed as) Tj T* 0 Tw 6.377109 Tw /F5 10 Tf (challengeKey = pbkdf2\(passphrase, challengeKeySalt\); ) Tj /F1 10 Tf (is the same as) Tj T* 0 Tw 1.955529 Tw /F5 10 Tf (keypairKey = pbkdf2\(passphrase, keypairSalt\) ) Tj /F1 10 Tf (so the response will expose the) Tj T* 0 Tw 6.358443 Tw /F5 10 Tf (keypairKey ) Tj /F1 10 Tf (to the server which it can use to decrypt the ) Tj /F3 10 Tf (elGamal ) Tj /F1 10 Tf (keypair in) Tj T* 0 Tw 4.175814 Tw /F5 10 Tf (keypairCiphertext) Tj /F1 10 Tf (. This is a result of using the PBKDF for two purposes without) Tj T* 0 Tw (diversification.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 336.0236 cm
+Q
+q
+1 0 0 1 62.69291 324.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F5 10 Tf 0 0 0 rg ([UNRESOLVED] ) Tj /F1 10 Tf (How does the server verify the client's ) Tj /F5 10 Tf (response.challengeKey) Tj /F1 10 Tf (?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 318.0236 cm
+Q
+q
+1 0 0 1 62.69291 174.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 105 cm
+q
+BT 1 0 0 1 0 26 Tm .444524 Tw 12 TL /F1 10 Tf 0 0 0 rg (The server values are overwritten on top of ) Tj /F5 10 Tf (session.account ) Tj /F1 10 Tf (inside ) Tj /F5 10 Tf (crypton.authorize) Tj /F1 10 Tf (, and) Tj T* 0 Tw 1.519976 Tw (then ) Tj /F5 10 Tf (session.account.unravel\(\) ) Tj /F1 10 Tf (is called. Because there is not end-to-end integrity check,) Tj T* 0 Tw (this allows a server to potentially violate the expectations of ) Tj /F5 10 Tf (Session.prototype.unravel) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 99 cm
+Q
+q
+1 0 0 1 23 99 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 87 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F5 10 Tf 0 0 0 rg ([UNRESOLVED] ) Tj /F1 10 Tf (What attacks are possible from the server through this mechanism?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 81 cm
+Q
+q
+1 0 0 1 23 81 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 69 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 45 cm
+q
+BT 1 0 0 1 0 26 Tm 17.24664 Tw 12 TL /F1 10 Tf 0 0 0 rg (The server can set the account properties so that within) Tj T* 0 Tw 2.308863 Tw /F5 10 Tf (Account.prototype.unravel ) Tj /F1 10 Tf (all parameters are chosen such that they decrypt to) Tj T* 0 Tw (server-chosen values:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 39 cm
+Q
+q
+1 0 0 1 23 39 cm
+Q
+q
+1 0 0 1 23 27 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F5 10 Tf 0 0 0 rg (this.passphrase ) Tj /F1 10 Tf (and ) Tj /F5 10 Tf (this.keypairSalt ) Tj /F1 10 Tf (can be selected by the server.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .363984 Tw (The other ciphertexts can be selected by the server based on the above so that they) Tj T* 0 Tw (decrypt to server-selected values.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 174.0236 cm
+Q
+q
+1 0 0 1 62.69291 147.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Account objects) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 117.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 2.624983 Tw 12 TL /F1 10 Tf 0 0 0 rg (The account fields sent to a server on a save are found in ) Tj /F5 10 Tf (Account.prototype.serialize ) Tj /F1 10 Tf (in) Tj T* 0 Tw /F5 10 Tf (account.js) Tj /F1 10 Tf (:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 111.0236 cm
+Q
+q
+1 0 0 1 62.69291 111.0236 cm
+Q
+q
+1 0 0 1 62.69291 99.02362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F5 10 Tf 12 TL (challengeKey) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 93.02362 cm
+Q
+q
+1 0 0 1 62.69291 81.02362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F5 10 Tf 12 TL (containerNameHmacKeyCiphertext) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 76.86614 cm
+Q
+ 
+endstream
+endobj
+% 'R167': class PDFStream 
+167 0 obj
+% page stream
+<< /Length 9827 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 753.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F5 10 Tf 12 TL (hmacKey) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 747.0236 cm
+Q
+q
+1 0 0 1 62.69291 735.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F5 10 Tf 12 TL (hmacKeyCiphertext) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 729.0236 cm
+Q
+q
+1 0 0 1 62.69291 717.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F5 10 Tf 12 TL (keypairCiphertext) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F5 10 Tf 12 TL (pubKey) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 693.0236 cm
+Q
+q
+1 0 0 1 62.69291 681.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F5 10 Tf 12 TL (challengeKeySalt) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 675.0236 cm
+Q
+q
+1 0 0 1 62.69291 663.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F5 10 Tf 12 TL (keypairSalt) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 657.0236 cm
+Q
+q
+1 0 0 1 62.69291 645.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F5 10 Tf 12 TL (symKeyCiphertext) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 639.0236 cm
+Q
+q
+1 0 0 1 62.69291 627.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F5 10 Tf 12 TL (username) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 627.0236 cm
+Q
+q
+1 0 0 1 62.69291 585.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .23784 Tw 12 TL /F1 10 Tf 0 0 0 rg (This is the same set of fields initialized in ) Tj /F5 10 Tf (crypton.generateAccount ) Tj /F1 10 Tf (with the exception of ) Tj /F5 10 Tf (hmacKey) Tj T* 0 Tw .087045 Tw /F1 10 Tf (which ) Tj /F5 10 Tf (generateAccount ) Tj /F1 10 Tf (does not store directly in a field, which leads to a question about the source of) Tj T* 0 Tw (that field:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 579.0236 cm
+Q
+q
+1 0 0 1 62.69291 579.0236 cm
+Q
+q
+1 0 0 1 62.69291 501.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 63 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F5 10 Tf 0 0 0 rg ([RESOLVED] ) Tj /F1 10 Tf (How is the account's ) Tj /F5 10 Tf (hmacKey ) Tj /F1 10 Tf (field set prior to a save? Under what conditions?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 57 cm
+Q
+q
+1 0 0 1 23 57 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 50 Tm 12.8222 Tw 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F5 10 Tf (hmacKey ) Tj /F1 10 Tf (is set in ) Tj /F5 10 Tf (Account.prototype.unravel ) Tj /F1 10 Tf (so a call to) Tj T* 0 Tw .843314 Tw /F5 10 Tf (Account.prototype.save ) Tj /F1 10 Tf (after an unravel will send this key to the server. This misnamed) Tj T* 0 Tw .804983 Tw (key is used as an ) Tj /F5 10 Tf (AES-GCM ) Tj /F1 10 Tf (key to provide integrity and confidentiality protection of container) Tj T* 0 Tw .225529 Tw (records \(see ) Tj /F5 10 Tf (Container.prototype.save ) Tj /F1 10 Tf (and ) Tj /F5 10 Tf (.decryptRecord) Tj /F1 10 Tf (\), so once the server has) Tj T* 0 Tw (it, it can read and modify container records.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 495.0236 cm
+Q
+q
+1 0 0 1 62.69291 471.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 1.929213 Tw 12 TL /F5 10 Tf 0 0 0 rg ([UNRESOLVED] ) Tj /F1 10 Tf (What role does sessionKey play? It appears to be set in ) Tj /F5 10 Tf (decryptRecord) Tj /F1 10 Tf (, but) Tj T* 0 Tw (where is it used?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 465.0236 cm
+Q
+q
+1 0 0 1 62.69291 429.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm 2.036647 Tw 12 TL /F5 10 Tf 0 0 0 rg ([UNRESOLVED]) Tj /F1 10 Tf ( ) Tj /F5 10 Tf (AES-GCM) Tj /F1 10 Tf (, which is length-revealing, is used in several places to encrypt JSON) Tj T* 0 Tw .19152 Tw (encodings \(for example, ) Tj /F5 10 Tf (sessionKey) Tj /F1 10 Tf (, ) Tj /F5 10 Tf (hmacKey) Tj /F1 10 Tf (, and record payloads\). Does the length of the input) Tj T* 0 Tw (JSON leak important information?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 429.0236 cm
+Q
+q
+1 0 0 1 62.69291 402.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Randomness generation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 390.0236 cm
+Q
+q
+1 0 0 1 62.69291 390.0236 cm
+Q
+q
+1 0 0 1 62.69291 270.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 104.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 104.2 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F5 10 Tf 0 0 0 rg ([RESOLVED]) Tj /F1 10 Tf ( ) Tj /F5 10 Tf (crypton.randomBytes ) Tj /F1 10 Tf (is defined as:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 47 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 445.6898 48 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F5 10 Tf 12 TL (function randomBytes \(nbytes\) {) Tj T* (  return sjcl.random.randomWords\(nbytes\);) Tj T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm 1.159979 Tw 12 TL /F1 10 Tf 0 0 0 rg (which is confusing because the argument to ) Tj /F5 10 Tf (sjcl.random.randomWords ) Tj /F1 10 Tf (is measured in 32-bit) Tj T* 0 Tw .18498 Tw (words. \(So for example, ) Tj /F5 10 Tf (hmacKey = crypton.randomBytes\(8\); ) Tj /F1 10 Tf (generates a 256-bit key, not a) Tj T* 0 Tw (64-bit one as might be expected.\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 264.8236 cm
+Q
+q
+1 0 0 1 62.69291 216.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 38 Tm .604651 Tw 12 TL /F5 10 Tf 0 0 0 rg ([UNRESOLVED] ) Tj /F1 10 Tf (In the anonymous function at line 1454 of ) Tj /F5 10 Tf (session.js) Tj /F1 10 Tf (, there is a ) Tj /F5 10 Tf (try ) Tj /F1 10 Tf (block with) Tj T* 0 Tw 1.944147 Tw (an empty ) Tj /F5 10 Tf (catch ) Tj /F1 10 Tf (around the attempt to use ) Tj /F5 10 Tf (crypto.getRandomValues ) Tj /F1 10 Tf (. This is presumably) Tj T* 0 Tw 1.13498 Tw (intended to ignore cases where the browser does not support ) Tj /F5 10 Tf (crypto.getRandomValues) Tj /F1 10 Tf (, but it) Tj T* 0 Tw (may suppress reporting of other errors, e.g. in ) Tj /F5 10 Tf (sjcl.random.addEntropy) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 210.8236 cm
+Q
+q
+1 0 0 1 26.3278 150.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 50 Tm 1.598333 Tw 12 TL /F5 10 Tf 0 0 0 rg ([UNRESOLVED] ) Tj /F1 10 Tf (In ) Tj /F5 10 Tf (sjcl.random.addEntropy) Tj /F1 10 Tf (, the idiom ) Tj /F5 10 Tf (Object.prototype.toString.call\(data\) ===) Tj T* 0 Tw 1.66375 Tw ("[object Uint32Array]" ) Tj /F1 10 Tf (is used as a type test for ) Tj /F5 10 Tf (Uint32Array ) Tj /F1 10 Tf (objects \(for example\). Does this work in) Tj T* 0 Tw 208.12 Tw (Internet Explorer? \(See) Tj T* 0 Tw 0 0 .501961 rg (http://stackoverflow.com/questions/4222394/using-object-prototype-tostring-call-to-return-object-type-with-javascript-n) Tj T* 0 0 0 rg (for why it might not.\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 150.8236 cm
+Q
+q
+1 0 0 1 62.69291 123.8236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Miscellaneous) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 111.8236 cm
+Q
+q
+1 0 0 1 62.69291 111.8236 cm
+Q
+q
+1 0 0 1 62.69291 99.82362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F5 10 Tf 0 0 0 rg ([UNRESOLVED] ) Tj /F1 10 Tf (Are TLS certificates verified?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 93.82362 cm
+Q
+q
+1 0 0 1 62.69291 81.82362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F5 10 Tf 0 0 0 rg ([UNRESOLVED] ) Tj /F1 10 Tf (Are GCM nonces unique?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 76.86614 cm
+Q
+ 
+endstream
+endobj
+% 'R168': class PDFStream 
+168 0 obj
+% page stream
+<< /Length 440 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 753.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F5 10 Tf 0 0 0 rg ([UNRESOLVED] ) Tj /F1 10 Tf (Is ) Tj /F3 10 Tf (elGamal ) Tj /F1 10 Tf (really El Gamal?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 753.0236 cm
+Q
+ 
+endstream
+endobj
+% 'R169': class PDFPageLabels 
+169 0 obj
+% Document Root
+<< /Nums [ 0
+ 170 0 R
+ 1
+ 171 0 R
+ 2
+ 172 0 R
+ 3
+ 173 0 R
+ 4
+ 174 0 R
+ 5
+ 175 0 R
+ 6
+ 176 0 R
+ 7
+ 177 0 R
+ 8
+ 178 0 R
+ 9
+ 179 0 R
+ 10
+ 180 0 R
+ 11
+ 181 0 R
+ 12
+ 182 0 R
+ 13
+ 183 0 R
+ 14
+ 184 0 R ] >>
+endobj
+% 'R170': class PDFPageLabel 
+170 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R171': class PDFPageLabel 
+171 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R172': class PDFPageLabel 
+172 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+% 'R173': class PDFPageLabel 
+173 0 obj
+% None
+<< /S /D
+ /St 4 >>
+endobj
+% 'R174': class PDFPageLabel 
+174 0 obj
+% None
+<< /S /D
+ /St 5 >>
+endobj
+% 'R175': class PDFPageLabel 
+175 0 obj
+% None
+<< /S /D
+ /St 6 >>
+endobj
+% 'R176': class PDFPageLabel 
+176 0 obj
+% None
+<< /S /D
+ /St 7 >>
+endobj
+% 'R177': class PDFPageLabel 
+177 0 obj
+% None
+<< /S /D
+ /St 8 >>
+endobj
+% 'R178': class PDFPageLabel 
+178 0 obj
+% None
+<< /S /D
+ /St 9 >>
+endobj
+% 'R179': class PDFPageLabel 
+179 0 obj
+% None
+<< /S /D
+ /St 10 >>
+endobj
+% 'R180': class PDFPageLabel 
+180 0 obj
+% None
+<< /S /D
+ /St 11 >>
+endobj
+% 'R181': class PDFPageLabel 
+181 0 obj
+% None
+<< /S /D
+ /St 12 >>
+endobj
+% 'R182': class PDFPageLabel 
+182 0 obj
+% None
+<< /S /D
+ /St 13 >>
+endobj
+% 'R183': class PDFPageLabel 
+183 0 obj
+% None
+<< /S /D
+ /St 14 >>
+endobj
+% 'R184': class PDFPageLabel 
+184 0 obj
+% None
+<< /S /D
+ /St 15 >>
+endobj
+xref
+0 185
+0000000000 65535 f
+0000000113 00000 n
+0000000259 00000 n
+0000000424 00000 n
+0000000599 00000 n
+0000000792 00000 n
+0000001042 00000 n
+0000001291 00000 n
+0000001526 00000 n
+0000001858 00000 n
+0000002099 00000 n
+0000002341 00000 n
+0000002583 00000 n
+0000002825 00000 n
+0000003067 00000 n
+0000003310 00000 n
+0000003553 00000 n
+0000003796 00000 n
+0000004039 00000 n
+0000004282 00000 n
+0000004525 00000 n
+0000004768 00000 n
+0000005011 00000 n
+0000005254 00000 n
+0000005497 00000 n
+0000005740 00000 n
+0000005983 00000 n
+0000006226 00000 n
+0000006469 00000 n
+0000006712 00000 n
+0000006955 00000 n
+0000007198 00000 n
+0000007442 00000 n
+0000007686 00000 n
+0000007930 00000 n
+0000008174 00000 n
+0000008418 00000 n
+0000008662 00000 n
+0000008906 00000 n
+0000009150 00000 n
+0000009394 00000 n
+0000009638 00000 n
+0000009882 00000 n
+0000010126 00000 n
+0000010370 00000 n
+0000010614 00000 n
+0000010858 00000 n
+0000011102 00000 n
+0000011346 00000 n
+0000011590 00000 n
+0000011834 00000 n
+0000012078 00000 n
+0000012322 00000 n
+0000012566 00000 n
+0000012810 00000 n
+0000013054 00000 n
+0000013298 00000 n
+0000013542 00000 n
+0000013786 00000 n
+0000014030 00000 n
+0000014274 00000 n
+0000014518 00000 n
+0000014762 00000 n
+0000015006 00000 n
+0000015250 00000 n
+0000015494 00000 n
+0000015738 00000 n
+0000015982 00000 n
+0000016226 00000 n
+0000016470 00000 n
+0000016714 00000 n
+0000016958 00000 n
+0000017202 00000 n
+0000017446 00000 n
+0000017690 00000 n
+0000017934 00000 n
+0000018178 00000 n
+0000018422 00000 n
+0000018666 00000 n
+0000018910 00000 n
+0000019154 00000 n
+0000019382 00000 n
+0000020339 00000 n
+0000020583 00000 n
+0000020827 00000 n
+0000021071 00000 n
+0000021315 00000 n
+0000021559 00000 n
+0000021802 00000 n
+0000022047 00000 n
+0000022286 00000 n
+0000022515 00000 n
+0000022705 00000 n
+0000022880 00000 n
+0000023136 00000 n
+0000023425 00000 n
+0000023818 00000 n
+0000024100 00000 n
+0000024398 00000 n
+0000024626 00000 n
+0000024929 00000 n
+0000025212 00000 n
+0000025495 00000 n
+0000025779 00000 n
+0000026063 00000 n
+0000026347 00000 n
+0000026646 00000 n
+0000026875 00000 n
+0000027195 00000 n
+0000027520 00000 n
+0000027826 00000 n
+0000028111 00000 n
+0000028275 00000 n
+0000028568 00000 n
+0000028697 00000 n
+0000028916 00000 n
+0000029122 00000 n
+0000029301 00000 n
+0000029489 00000 n
+0000029724 00000 n
+0000029938 00000 n
+0000030167 00000 n
+0000030429 00000 n
+0000030690 00000 n
+0000030897 00000 n
+0000031132 00000 n
+0000031316 00000 n
+0000031505 00000 n
+0000031764 00000 n
+0000032001 00000 n
+0000032179 00000 n
+0000032371 00000 n
+0000032604 00000 n
+0000032799 00000 n
+0000033050 00000 n
+0000033264 00000 n
+0000033523 00000 n
+0000033710 00000 n
+0000033954 00000 n
+0000034129 00000 n
+0000034311 00000 n
+0000034560 00000 n
+0000034726 00000 n
+0000034998 00000 n
+0000035159 00000 n
+0000035385 00000 n
+0000035580 00000 n
+0000035796 00000 n
+0000036017 00000 n
+0000036259 00000 n
+0000036454 00000 n
+0000036653 00000 n
+0000036858 00000 n
+0000037021 00000 n
+0000037266 00000 n
+0000039676 00000 n
+0000049415 00000 n
+0000055692 00000 n
+0000063123 00000 n
+0000068334 00000 n
+0000074963 00000 n
+0000079756 00000 n
+0000085937 00000 n
+0000096076 00000 n
+0000104377 00000 n
+0000110644 00000 n
+0000116887 00000 n
+0000126355 00000 n
+0000136283 00000 n
+0000136827 00000 n
+0000137124 00000 n
+0000137203 00000 n
+0000137282 00000 n
+0000137361 00000 n
+0000137440 00000 n
+0000137519 00000 n
+0000137598 00000 n
+0000137677 00000 n
+0000137756 00000 n
+0000137835 00000 n
+0000137915 00000 n
+0000137995 00000 n
+0000138075 00000 n
+0000138155 00000 n
+0000138235 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(4\334\341\335\214\251rb/e\371cp\352\030\207) (4\334\341\335\214\251rb/e\371cp\352\030\207)] 
+
+ /Info 112 0 R
+ /Root 111 0 R
+ /Size 185 >>
+startxref
+138284
+%%EOF

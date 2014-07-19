@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<title>getUserMedia constraints</title>
+
+	<style>
+	body, html {
+		height: 100%;
+	}
+
+	button {
+		margin: 0 1em 0 0;
+		width: 100px;
+	}
+
+	div#buttons {
+		margin: 0 0 1em 0;
+	}
+
+	div#container {
+		max-width: 100%;
+	}
+
+	p#dimensions {
+		height: 1em;
+		margin: 0 0 1.5em 0;
+	}
+
+	video {
+		background: none;
+		height: auto;
+		width: auto;
+	}
+	</style>
+</head>
+<body>
+<div id="container">
+
+  <p>Click a button to call <code>getUserMedia()</code> with appropriate resolution.</p>
+
+	<div id="buttons">
+	  <button id="qvga">QVGA</button>
+	  <button id="vga">VGA</button>
+	  <button id="hd">HD</button>
+	</div>
+
+  <p id="dimensions"></p>
+
+  <video autoplay=""></video>
+
+  <script src="main.js"></script>
+</div>
+
+
+</body></html>

@@ -1,0 +1,542 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>WebRTC - Joe Pettersson</title>
+
+		<meta name="description" content="A framework for easily creating beautiful presentations using HTML">
+		<meta name="author" content="Hakim El Hattab">
+
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<link rel="stylesheet" href="css/reveal.min.css">
+		<link rel="stylesheet" href="css/theme/joep.css" id="theme">
+
+		<!-- For syntax highlighting -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- If the query includes 'print-pdf', use the PDF print sheet -->
+		<script>
+			document.write( '<link rel="stylesheet" href="css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<div id="logo">JSChannel</div>
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+
+				<section id="intro" data-transition="zoom" data-background-transition="zoom" class="listing">
+					<h1>WebRTC</h1>
+					<h3>Building a scalable WebRTC based chat client</h3>
+					<hr>
+					<h3 class="fade"><small>Saturday 19th of July 2014<br>Joe Pettersson @ JSChannel<br><a href="https://github.com/Joe8Bit/webrtc-workshop">https://github.com/Joe8Bit/webrtc-workshop</a></small></h4>
+				</section>
+
+				<section data-transition="zoom" data-background-transition="zoom" class="listing">
+					<h1>Joe Pettersson</h1>
+					<h3><a href="https://twitter.com/Joe8bit">@Joe8Bit</a> | <a href="https://github.com/Joe8Bit">github.com/Joe8Bit</a></h3>
+				</section>
+
+				<section data-background="#002960" data-transition="zoom">
+					<img src="./imgs/mckinsey.svg" alt="McKinsey & Company" class="no-shadow">
+				</section>
+
+				<section class="listing">
+					<h2>Low cost, high quality audio and video communication</h2>
+					<h1>... and data!</h1>
+				</section>
+
+				<section class="listing">
+					<p>WebRTC is a new front in the long war for an open and unencumbered web</p>
+					<p><small>Brendan Eich – Mozilla CTO and inventor of JavaScript</small></p>
+				</section>
+
+				<section class="listing">
+					<ul>
+						<li>Decentralised</li>
+						<li>Increased privacy</li>
+						<li>Security by default</li>
+					</ul>
+				</section>
+
+				<section class="listing">
+					<h1>The WebRTC APIs</h1>
+					<hr>
+				</section>
+
+				<section class="listing">
+					<ul>
+						<li>Acquiring audio and video = MediaStream (aka getUserMedia)</li>
+						<li>Communicating audio and video = RTCPeerConnection</li>
+						<li>Communicating arbitrary data = RTCDataChannel</li>
+					</ul>
+				</section>
+
+				<section class="listing">
+					<h1>MediaStream</h1>
+					<hr>
+				</section>
+
+				<section class="listing">
+					<h3>MediaStream</h3>
+					<ul>
+						<li>Represents a stream of audio and/or video</li>
+						<li>Can contain multiple 'tracks'</li>
+						<li>Obtain a MediaStream with <code>navigator.getUserMedia()</code></li>
+					</ul>
+				</section>
+
+				<section class="listing">
+					<img src="imgs/mediaStream.png" alt="Media Stream" class="no-shadow">
+				</section>
+
+				<section class="listing">
+					<h3>MediaStream aka getUserMedia</h3>
+					<pre><code data-trim class="javascript">
+var constraints = { video: true };
+
+function successCallback (stream) {
+  var video = document.querySelector("video");
+  video.src = window.URL.createObjectURL(stream);
+}
+
+function errorCallback (error) {
+  console.log("navigator.getUserMedia error: ", error);
+}
+
+navigator.getUserMedia(constraints, successCallback, errorCallback);
+    				</code></pre>
+    				<a href="/demos/getusermedia/" target="_blank">Demo</a>
+				</section>
+
+				<section class="listing">
+					<h3><a href="http://idevelop.ro/ascii-camera/">http://idevelop.ro/ascii-camera/</a></h3>
+					<h3><a href="http://webcamtoy.com/">http://webcamtoy.com/</a></h3>
+				</section>
+
+				<section class="listing">
+					<h3>Constraints</h3>
+					<h4>Media type, resolution, frame rate</h4>
+					<pre><code data-trim class="javascript">
+var constraints  = {
+  video: {
+    mandatory: {
+      minWidth: 1280,
+      minHeight: 720
+    }
+  }
+};
+    				</code></pre>
+    				<p><a href="http://0.0.0.0:8080/constraints/" target="_blank">Demo</a></p>
+				</section>
+
+				<section class="listing">
+					<h3>Web Audio</h3>
+					<pre><code data-trim class="javascript">
+// Success callback when requesting audio input stream
+function gotStream(stream) {
+    var audioContext = new webkitAudioContext();
+
+    // Create an AudioNode from the stream
+    var mediaStreamSource = audioContext.createMediaStreamSource(stream);
+
+    // Connect it to the destination or any other node for processing!
+    mediaStreamSource.connect(audioContext.destination);
+}
+
+navigator.webkitGetUserMedia({audio:true}, gotStream);
+    				</code></pre>
+    				<p><a href="/demos/audio/" target="_blank">Demo</a></p>
+				</section>
+
+				<section class="listing">
+					<h3>gUM screencapture (Experimental)</h3>
+					<pre><code data-trim class="javascript">
+var constraints = {
+  video: {
+    mandatory: {
+      chromeMediaSource: 'screen'
+    }
+  }
+};
+
+navigator.webkitGetUserMedia(constraints, gotStream);
+    				</code></pre>
+    				<p><small>Hidden behind the <code>--enable-usermedia-screen-capture</code> flag<br />
+    				<a href="https://html5-demos.appspot.com/static/getusermedia/screenshare.html">https://html5-demos.appspot.com/static/getusermedia/screenshare.html</a></small></p>
+				</section>
+
+				<section class="listing">
+					<h1>RTCPeerConnection</h1>
+					<hr>
+				</section>
+
+				<section>
+					<h1>getUserMedia</h1>
+					<h2 class="red">❤</h2>
+					<h1>RTCPeerConnection</h1>
+				</section>
+
+				<section class="listing" data-transition="fade" data-background-transition="fade">
+					<h4>It's complex yo'</h4>
+					<ul>
+						<li>Signal processing</li>
+						<li>Codec handling</li>
+						<li>Peer to peer communication</li>
+						<li>Security</li>
+						<li>Bandwidth management</li>
+						<li>...</li>
+					</ul>
+				</section>
+
+				<section class="listing">
+					<img src="imgs/complex-arch.png" alt="Complex yo" class="no-shadow" style="width: 100%;">
+					<a href="http://www.webrtc.org/reference/architecture">Source</a>
+				</section>
+
+				<section class="listing">
+					<h3>Implementing it isn't</h3>
+					<pre><code data-trim class="javascript">
+var pc = new RTCPeerConnection();
+pc.onaddstream = gotRemoteStream;
+pc.addStream(localStream);
+pc.createOffer(gotOffer);
+
+function gotOffer(desc) {
+  pc.setLocalDescription(desc);
+  sendOffer(desc);
+}
+
+function gotAnswer(desc) {
+  pc.setRemoteDescription(desc);
+}
+
+function gotRemoteStream(e) {
+  attachMediaStream(remoteVideo, e.stream);
+}
+    				</code></pre>
+    				<a href="/demos/peerconnection/">Demo</a>
+				</section>
+
+				<section class="listing">
+					<h1>RTCDataChannel</h1>
+					<hr>
+				</section>
+
+				<section class="listing">
+					<h3>Communicate arbitrary data</h3>
+					<pre><code data-trim class="javascript">
+onreceivemessage = handleIncomingData(data);
+...
+var myData = [
+  {
+    id: "awesomeGameCharacter";
+    x: 19,
+    y: 4,
+    velocity: 18
+  },
+  ....
+]
+sendData(myData);
+    				</code></pre>
+				</section>
+
+				<section class="listing">
+					<ul>
+						<li>Same API as WebSockets</li>
+						<li>Ultra-low latency</li>
+						<li>Unreliable/UDP or reliable/TCP</li>
+						<li>Secure</li>
+					</ul>
+				</section>
+
+				<section class="listing">
+					<h3>Implementation</h3>
+					<pre><code data-trim class="javascript">
+var pc = new webkitRTCPeerConnection(servers, { optional: [{ RtpDataChannels: true }]});
+
+pc.ondatachannel = function (event) {
+  receiveChannel = event.channel;
+  receiveChannel.onmessage = function (event){ 
+    document.querySelector("div#receive").innerHTML = event.data;
+  };
+};
+
+sendChannel = pc.createDataChannel("sendDataChannel", {reliable: false});
+
+document.querySelector("button#send").onclick = function (){
+  var data = document.querySelector("textarea#send").value;
+  sendChannel.send(data);
+};
+    				</code></pre>
+    				<a href="/demos/datachannels/">Demo</a>
+				</section>
+
+				<section class="listing">
+					<h3><a href="https://www.sharefest.me/">https://www.sharefest.me/</a></h3>
+				</section>
+
+				<section class="listing">
+					<h1>Servers and Protocols</h1>
+				</section>
+
+				<section>
+					<img src="imgs/WAT.gif" alt="WAT" class="no-shadow">
+				</section>
+
+				<section class="listing">
+					<h3>Abstract Signaling</h3>
+					<ul>
+						<li>
+							Need to exchange 'session description' objects:
+							<ul>
+								<li>What formats I support, what I want to send</li>
+								<li>Network information for peer-to-peer setup</li>
+							</ul>
+						</li>
+						<li>Can use any messaging mechanism</li>
+						<li>Can use any messaging protocol</li>
+					</ul>
+				</section>
+
+				<section class="listing">
+					<img src="imgs/signalling-diagram.png" alt="Signalling Diagram" class="no-shadow" style="width: 100%;">
+				</section>
+
+				<section class="listing">
+					<h3>An RTCSessionDescription</h3>
+					<pre><code data-trim>
+v=0
+o=- 7614219274584779017 2 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE audio video
+a=msid-semantic: WMS
+m=audio 1 RTP/SAVPF 111 103 104 0 8 107 106 105 13 126
+c=IN IP4 0.0.0.0
+a=rtcp:1 IN IP4 0.0.0.0
+a=ice-ufrag:W2TGCZw2NZHuwlnf
+a=ice-pwd:xdQEccP40E+P0L5qTyzDgfmW
+a=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level
+a=mid:audio
+a=rtcp-mux
+a=crypto:1 AES_CM_128_HMAC_SHA1_80 inline:9c1AHz27dZ9xPI91YNfSlI67/EMkjHHIHORiClQe
+a=rtpmap:111 opus/48000/2
+...
+    				</code></pre>
+				</section>
+
+				<section class="listing">
+					<h1>STUN and TURN</h1>
+					<h3>Ugh.</h3>
+				</section>
+
+				<section class="listing">
+					<h2>Firewalls and NATs suck</h2>
+				</section>
+
+				<section class="listing" data-transition="fade">
+					<h3>Ideal world</h3>
+					<img src="imgs/noSTUNorTURN.png" alt="Ideal world" class="no-shadow" style="width: 100%;">
+				</section>
+
+				<section class="listing" data-transition="fade">
+					<h3>The real world</h3>
+					<img src="imgs/real-world.png" alt="Real world" class="no-shadow" style="width: 100%;">
+				</section>
+
+				<section class="listing">
+					<h3>STUN</h3>
+					<ul>
+						<li>Tell me what what my public IP address is</li>
+						<li>Simple server, cheap to run</li>
+						<li>Data flows peer-to-peer</li>
+					</ul>
+				</section>
+
+				<section class="listing" data-transition="fade">
+					<h3>STUN</h3>
+					<img src="imgs/stun.png" alt="STUN" class="no-shadow" style="width: 100%;">
+				</section>
+
+				<section class="listing">
+					<h3>TURN</h3>
+					<ul>
+						<li>Provide a cloud fallback if peer-to-peer communication failss</li>
+						<li>Data is sent through server, uses server bandwidth</li>
+						<li>Ensures the call works in almost all environments</li>
+					</ul>
+				</section>
+
+				<section class="listing" data-transition="fade">
+					<h3>STUN and TURN</h3>
+					<img src="imgs/STUNandTURN.png" alt="STUN and Turn" class="no-shadow" style="width: 100%;">
+				</section>
+
+				<section class="listing">
+					<h3>ICE</h3>
+					<ul>
+					   	<li>ICE (Interactive Connectivity Establishment) a framework for connecting peers</li>
+					   	<li>Tries to find the best path for each call</li>
+					   	<li>Vast majority of calls can use STUN (85%+) (Source: <a href="http://webrtcstats.com">http://webrtcstats.com</a>)</li>
+					</ul>   
+				</section>
+
+				<section class="listing">
+					<h1>Security</h1>
+				</section>
+
+				<section class="listing">
+					<ul>
+						<li>Mandatory encryption for media and data</li>
+						<li>Secure UI, explicit opt-in</li>
+						<li>Sandboxed, no plugins</li>
+						<li><a href="http://www.ietf.org/proceedings/82/slides/rtcweb-13.pdf">WebRTC Security Architecture</a></li>
+					</ul>
+				</section>
+
+				<section class="listing" data-transition="fade">
+					<h3>Secure Pathways</h3>
+					<img src="imgs/securePathways.png" alt="Secure Pathways" class="no-shadow" style="width: 100%;">
+				</section>
+
+				<section class="listing">
+					<h1>Building a WebRTC App</h1>
+				</section>
+
+				<section class="listing">
+					<h2><a href="chrome://webrtc-internals">chrome://webrtc-internals</a></h2>
+				</section>
+
+				<section class="listing">
+					<h2>The differing browser API's are a pain</h2>
+					<p>Lots of boilerplate. Ugh.</p>
+				</section>
+
+				<section class="listing">
+					<h3>Video Chat</h3>
+					<ul>
+						<li><a href="https://github.com/henrikjoreteg/SimpleWebRTC">SimpleWebRTC</a></li>
+						<li><a href="https://github.com/priologic/easyrtc">easyRTC</a></li>
+						<li><a href="https://github.com/webRTC/webRTC.io">WebRTC.io</a></li>
+					</ul>
+				</section>
+
+				<section class="listing">
+					<h3>SimpleWebRTC</h3>
+					<pre><code data-trim class="javascript">
+var webrtc = new WebRTC({
+  localVideoEl: 'localVideo',
+  remoteVideosEl: 'remoteVideos',
+  autoRequestMedia: true
+});
+
+webrtc.on('readyToCall', function () {
+    webrtc.joinRoom('My room name');
+});
+    				</code></pre>
+    				<p><small>Uses Google's public STUN servers</small></p>
+				</section>
+
+				<section class="listing">
+					<h3>Peer to Peer data</h3>
+					<ul>
+						<li><a href="http://peerjs.com">PeerJS</a></li>
+						<li><a href="https://github.com/peer5/sharefest">Sharefest</a></li>
+					</ul>
+				</section>
+
+				<section class="listing">
+					<h3>PeerJS</h3>
+					<pre><code data-trim class="javascript">
+var peer = new Peer('someid', {key: 'apikey'});
+peer.on('connection', function(conn) {
+  conn.on('data', function(data){
+    // Will print 'hi!'
+    console.log(data);
+  });
+});
+
+// Connecting peer
+var peer = new Peer('anotherid', {key: 'apikey'});
+var conn = peer.connect('someid');
+conn.on('open', function(){
+  conn.send('hi!');
+});
+    				</code></pre>
+				</section>
+
+				<section class="listing">
+					<h2>Now let's build an app with SimpleWebRTC!</h2>
+				</section>
+
+				<section class="listing">
+					<h2><a href="http://www.webrtcbook.com/">webrtcbook.com</a></h2>
+				</section>
+
+				<section class="listing">
+					<h1>Thanks!</h1>
+				</section>
+
+				<section class="listing">
+					<h3>Credits</h3>
+					<ul>
+						<li><a href="http://www.html5rocks.com/en/">HTML5Rocks</a> for the diagrams</li>
+						<li><a href="http://www.webrtcbook.com/">webrtcbook.com</a> for being a fantastic resource</li>
+						<li><a href="https://www.flickr.com/photos/13070711@N03/8449250361/in/photolist-dSCBLn-bgRMuB-nPHsRg-jU31Gr-dmMgJW-bE7X8q-nJE7qq-cPRxPw-cDDj11-gyLJ3T-dWVpNw-7y2L5E-e6fnVi-jxSyVq-csXRsy-CiV8Z-n3L2s6-dbbzyG-aPJpWF-dkKmXx-bKk97i-4FUCVo-e4j5bR-Jdtr1-dTsgQo-e2A9qB-e7mM9e-dmdQh2-npeHUR-dcURxP-dqvbF9-dUFXyz-e6xuSQ-7xYfNS-jWfZtr-d56EjC-dUQa75-75c6Cp-vFco5-c8Crww-dUJr6t-cUso7m-c1YZDN-c4rqjA-4onRo2-5WQMH-7twMuv-noDyfd-nyE3Qi-4JkB9W/">Parshotam Lal Tandom</a> for the awesome photo of bangalore</li>
+					</ul>
+				</section>
+
+			</div>
+
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.min.js"></script>
+
+		<script>
+
+			// Full list of configuration options available here:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: false,
+				progress: true,
+				history: true,
+				center: true,
+				overview: true,
+				slideNumber: true,
+
+				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+				transition: Reveal.getQueryHash().transition || 'concave', // default/cube/page/concave/zoom/linear/fade/none
+
+				// Optional libraries used to extend on reveal.js
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+					{ src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+					// { src: 'plugin/search/search.js', async: true, condition: function() { return !!document.body.classList; } }
+					// { src: 'plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
+				]
+			});
+
+		</script>
+
+	</body>
+</html>

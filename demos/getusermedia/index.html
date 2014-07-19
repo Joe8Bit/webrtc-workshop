@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>GetUserMedia</title>
+	<link rel="stylesheet" type="text/css" href="styles.css"/>
+</head>
+<body>
+	<div id="logo">
+		<img src="images/text-logo.png" alt="JSChannel">
+	</div>
+	<div id="container" class="container">
+		<ul id="scene" class="scene">
+			<li class="layer" data-depth="1.00"><img src="images/layer1.png"></li>
+			<li class="layer" data-depth="0.80"><img src="images/layer2.png"></li>
+			<li class="layer" data-depth="0.60"><img src="images/layer3.png"></li>
+			<li class="layer" data-depth="0.40"><img src="images/layer4.png"></li>
+			<li class="layer" data-depth="0.20"><img src="images/layer5.png"></li>
+			<li class="layer" data-depth="0.00"><img src="images/layer6.png"></li>
+		</ul>
+	</div>
+
+	<script src="parallax.js"></script>
+	<script>
+
+	// Pretty simple huh?
+	var scene = document.getElementById('scene');
+	var parallax = new Parallax(scene, {
+        headtrackr: true,
+        headtrackrPreferDeviceMotion: false,//by default at true - forcing at false for the demo
+        scalarX: 15.0,
+        scalarY: 15.0,
+        headtrackrDebugView: true,
+        invertX: false,
+        invertY: false,
+        headtrackrScriptLocation: "headtrackr.min.js",
+        headtrackrOnBeforeCameraAccess: function () {
+        	console.log('Trying to access to your webcam - this is where you could display a "please allow your webcam" message for example');
+        },
+        headtrackrOnCameraFound: function () {
+			var headtrackerMessageDiv = document.getElementById('headtrackerMessageDiv');
+			//at this time, you're sure the user clicked on "allow" and the webcam is rolling (you can override the inline styles of the headtrackr div message)
+			headtrackerMessageDiv.style.top = "20%";
+        }
+    });
+
+	</script>
+
+</body>
+</html>

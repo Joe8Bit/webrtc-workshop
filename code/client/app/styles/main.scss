@@ -1,0 +1,87 @@
+$icon-font-path: "../bower_components/bootstrap-sass-official/assets/fonts/bootstrap/";
+// bower:scss
+@import "bootstrap-sass-official/assets/stylesheets/bootstrap.scss";
+// endbower
+
+body {
+  background: url(/images/ng.png) repeat;
+  color: #fff;
+  overflow: hidden;
+}
+
+#simplewebrtc-local {
+  width: 60%;
+  margin: 25px auto;
+  video {
+    width: 100%;
+  }
+}
+
+#simplewebrtc-remote {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  background: #000;
+  video {
+    width: 14.2%;
+  }
+}
+
+#connection-status {
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  font-size: 32px;
+  padding-top: 25%;
+  text-align: center;
+}
+
+header {
+  padding: 1rem;
+  background: #5833A2;
+  position: relative;
+  h2 {
+    color: #fff;
+    font-size: 26px;
+    margin: 3px 0 0;
+    font-weight: normal;
+  }
+  input[type="range"] {
+    margin-top: 10px;
+  }
+  #volume-controls {
+    position: absolute;
+    right: 10px;
+    top: 44px;
+    background: #ccc;
+    padding: 1rem;
+    width: 300px;
+    color: #666;
+    z-index: 500;
+  }
+  .form-group {
+    margin: 0;
+  }
+}
+
+.exRoom {
+  background: #ccc;
+  color: #666;
+  padding: 1rem 1.1rem;
+  p {
+    margin: 0;
+  }
+}
+
+#user-notification {
+  position: fixed;
+  top: 70px;
+  right: 10px;
+  background: #fff;
+  border-radius: 5px;
+  padding: 0.6rem 0.8rem;
+  color: #666;
+}

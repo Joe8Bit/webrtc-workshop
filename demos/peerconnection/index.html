@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<title>RTCPeerConnection</title>
+<style>
+div#container {
+  max-width: 100%;
+}
+video {
+  margin: 0 0.5em 1.5em 0;
+  -webkit-transform: scaleX(-1);
+  -moz-transform: scaleX(-1);
+  -ms-transform:  scaleX(-1);
+  -o-transform:  scaleX(-1);
+  transform: scaleX(-1);
+}
+@media screen and (min-width: 1000px) {
+  video {
+  width: 49%;
+  }
+}
+</style>
+</head>
+<body>
+<div id="container">
+
+  <video id="localVideo" autoplay="" src=""></video>
+  <video id="remoteVideo" autoplay="" src=""></video>
+
+  <div>
+    <button id="startButton" disabled="">Start</button>
+    <button id="callButton">Call</button>
+    <button id="hangupButton" disabled="">Hang Up</button>
+  </div>
+
+  <script src="main.js"></script>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,48 @@
+<div ng-show="connected">
+
+  <div ng-show="newUser" id="user-notification">A new user had connected</div>
+
+  <header ng-hide="joinedRoom" class="row">
+    <div class="col-md-3">
+      <div class="form-group">
+        <div class="input-group">
+          <div class="input-group-addon">Room to join</div>
+          <input type="text" ng-model="room" class="form-control">
+        </div>
+      </div>
+    </div>
+    <div class="col-md-9 text-right">
+      <a href="" ng-click="joinRoom()" class="btn btn-success">Join</a>
+      <a href="" ng-click="disconnect()" class="btn btn-danger">Disconnect</a>
+    </div> 
+  </header>
+
+  <div class="row exRoom" ng-show="exRoom">
+    <div class="col-md-12">
+      <p>You just left '{{exRoom}}', <a href="" ng-click="joinRoom(exRoom)">rejoin</a>?</p>
+    </div>
+  </div>
+
+  <header ng-show="joinedRoom" class="row">
+    <div class="col-md-10">
+      <h2>{{currentRoom}}</h2>
+    </div>
+    <div class="col-md-2 text-right">
+      <a href="" ng-click="leaveRoom()" class="btn btn-warning">Leave Room</a>
+      <a href="" class="btn btn-default" ng-click="showVolume = !showVolume"><span class="glyphicon glyphicon-volume-up"></span></a>
+      <div id="volume-controls" ng-show="showVolume">
+        <span>Adjust participant volume ({{volume}})</span>
+        <input type="range" ng-model="volume" min="0" max="1" step="0.1">
+      </div>
+    </div>
+  </header>
+
+  <div id="simplewebrtc-local" ng-show="joinedRoom"></div>
+  <div id="simplewebrtc-remote" ng-show="joinedRoom"></div>
+
+</div>
+
+<div ng-hide="connected" id="connection-status">
+  <span ng-hide="disconnected">Connecting...</span>
+  <span ng-show="disconnected">You are no longer connected</span>
+</div>

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>RTCDataChannel</title>
+<style>
+div#buttons {
+  margin: 0 0 1em 0;
+}
+div#receive {
+}
+div#send {
+  float: left;
+  margin: 0 3em 1em 0;
+}
+div#sendReceive {
+  margin: 0 0 1em 0;
+}
+\h1 {
+  margin: 0 0 1em 0;
+}
+h2 {
+  margin: 0 0 0.5em 0;
+}
+textarea {
+  color: #444;
+  font-family: 'Courier New', monospace;
+  font-size: 1em;
+  height: 7.0em;
+  padding: 0.5em;
+}
+</style>
+</head>
+<body>
+<div id="container">
+
+
+  <div id="buttons">
+    <button id="startButton" disabled="">Start</button>
+    <button id="sendButton">Send</button>
+    <button id="closeButton">Stop</button>
+  </div>
+
+  <div id="sendReceive">
+    <div id="send">
+      <h2>Send</h2>
+      <textarea id="dataChannelSend" placeholder=""></textarea>
+    </div>
+    <div id="receive">
+      <h2>Receive</h2>
+      <textarea id="dataChannelReceive" disabled=""></textarea>
+    </div>
+  </div>
+
+  <script src="main.js"></script>
+
+</div>
+
+</body>
+</html>

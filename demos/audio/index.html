@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Audio Recorder</title>
+
+	<script src="audiodisplay.js"></script>
+	<script src="recorder.js"></script>
+	<script src="main.js"></script>
+	<style>
+	html { overflow: hidden; }
+	body { 
+		display: flex;
+		flex-direction: column;
+		height: 100vh;
+		width: 100%;
+		margin: 0 0;
+	}
+	canvas { 
+		display: inline-block; 
+		background: #202020; 
+		width: 95%;
+		height: 70%;
+	}
+	#viz {
+		height: 80%;
+		width: 100%;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-around;
+		align-items: center;
+	}
+
+	</style>
+</head>
+<body>
+	<div id="viz">
+		<canvas id="analyser" width="1024" height="500"></canvas>
+	</div>
+</body>
+</html>
